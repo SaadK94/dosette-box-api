@@ -1,5 +1,4 @@
 const express = require('express');
-
 const router = express.Router();
 
 //Let's say the route below is very sensitive and we want only authorized users to have access

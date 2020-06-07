@@ -1,0 +1,4883 @@
+[
+	{
+		"name": "ABACAVIR"
+	},
+	{
+		"name": "ABACAVIR WITH DOLUTEGRAVIR AND LAMIVUDINE"
+	},
+	{
+		"name": "ABACAVIR WITH LAMIVUDINE"
+	},
+	{
+		"name": "ABACAVIR WITH LAMIVUDINE AND ZIDOVUDINE"
+	},
+	{
+		"name": "ABATACEPT"
+	},
+	{
+		"name": "ABEMACICLIB"
+	},
+	{
+		"name": "ABIRATERONE ACETATE"
+	},
+	{
+		"name": "ACAMPROSATE CALCIUM"
+	},
+	{
+		"name": "ACARBOSE"
+	},
+	{
+		"name": "ACEBUTOLOL"
+	},
+	{
+		"name": "ACECLOFENAC"
+	},
+	{
+		"name": "ACENOCOUMAROL"
+	},
+	{
+		"name": "ACETAZOLAMIDE"
+	},
+	{
+		"name": "ACETYLCHOLINE CHLORIDE"
+	},
+	{
+		"name": "ACETYLCYSTEINE"
+	},
+	{
+		"name": "ACICLOVIR"
+	},
+	{
+		"name": "ACIPIMOX"
+	},
+	{
+		"name": "ACITRETIN"
+	},
+	{
+		"name": "ACLIDINIUM BROMIDE"
+	},
+	{
+		"name": "ACLIDINIUM BROMIDE WITH FORMOTEROL"
+	},
+	{
+		"name": "ACRIVASTINE"
+	},
+	{
+		"name": "ADALIMUMAB"
+	},
+	{
+		"name": "ADAPALENE"
+	},
+	{
+		"name": "ADAPALENE WITH BENZOYL PEROXIDE"
+	},
+	{
+		"name": "ADEFOVIR DIPIVOXIL"
+	},
+	{
+		"name": "ADENOSINE"
+	},
+	{
+		"name": "ADRENALINE WITH ARTICAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "ADRENALINE/EPINEPHRINE"
+	},
+	{
+		"name": "AFATINIB"
+	},
+	{
+		"name": "AFLIBERCEPT"
+	},
+	{
+		"name": "AGALSIDASE ALFA"
+	},
+	{
+		"name": "AGALSIDASE BETA"
+	},
+	{
+		"name": "AGOMELATINE"
+	},
+	{
+		"name": "ALBENDAZOLE"
+	},
+	{
+		"name": "ALBUMIN SOLUTION"
+	},
+	{
+		"name": "ALCLOMETASONE DIPROPIONATE"
+	},
+	{
+		"name": "ALCOHOL"
+	},
+	{
+		"name": "ALDESLEUKIN"
+	},
+	{
+		"name": "ALECTINIB"
+	},
+	{
+		"name": "ALEMTUZUMAB"
+	},
+	{
+		"name": "ALENDRONIC ACID"
+	},
+	{
+		"name": "ALENDRONIC ACID WITH COLECALCIFEROL"
+	},
+	{
+		"name": "ALFACALCIDOL"
+	},
+	{
+		"name": "ALFENTANIL"
+	},
+	{
+		"name": "ALFUZOSIN HYDROCHLORIDE"
+	},
+	{
+		"name": "ALGINIC ACID"
+	},
+	{
+		"name": "ALGLUCOSIDASE ALFA"
+	},
+	{
+		"name": "ALIMEMAZINE TARTRATE"
+	},
+	{
+		"name": "ALIROCUMAB"
+	},
+	{
+		"name": "ALISKIREN"
+	},
+	{
+		"name": "ALITRETINOIN"
+	},
+	{
+		"name": "ALLOPURINOL"
+	},
+	{
+		"name": "ALMOND OIL"
+	},
+	{
+		"name": "ALMOTRIPTAN"
+	},
+	{
+		"name": "ALOGLIPTIN"
+	},
+	{
+		"name": "ALOGLIPTIN WITH METFORMIN"
+	},
+	{
+		"name": "ALPHA TOCOPHEROL"
+	},
+	{
+		"name": "ALPHA TOCOPHERYL ACETATE"
+	},
+	{
+		"name": "ALPRAZOLAM"
+	},
+	{
+		"name": "ALPROSTADIL"
+	},
+	{
+		"name": "ALTEPLASE"
+	},
+	{
+		"name": "ALUMINIUM ACETATE"
+	},
+	{
+		"name": "ALUMINIUM CHLORIDE HEXAHYDRATE"
+	},
+	{
+		"name": "ALVERINE CITRATE"
+	},
+	{
+		"name": "AMANTADINE HYDROCHLORIDE"
+	},
+	{
+		"name": "AMBRISENTAN"
+	},
+	{
+		"name": "AMIFAMPRIDINE"
+	},
+	{
+		"name": "AMIKACIN"
+	},
+	{
+		"name": "AMILORIDE HYDROCHLORIDE"
+	},
+	{
+		"name": "AMILORIDE WITH BUMETANIDE"
+	},
+	{
+		"name": "AMINOPHYLLINE"
+	},
+	{
+		"name": "AMINOSALICYLIC ACID"
+	},
+	{
+		"name": "AMIODARONE HYDROCHLORIDE"
+	},
+	{
+		"name": "AMISULPRIDE"
+	},
+	{
+		"name": "AMITRIPTYLINE HYDROCHLORIDE"
+	},
+	{
+		"name": "AMLODIPINE"
+	},
+	{
+		"name": "AMLODIPINE WITH VALSARTAN"
+	},
+	{
+		"name": "AMOROLFINE"
+	},
+	{
+		"name": "AMOXICILLIN"
+	},
+	{
+		"name": "AMPHOTERICIN"
+	},
+	{
+		"name": "AMPICILLIN"
+	},
+	{
+		"name": "AMSACRINE"
+	},
+	{
+		"name": "ANAGRELIDE"
+	},
+	{
+		"name": "ANAKINRA"
+	},
+	{
+		"name": "ANASTROZOLE"
+	},
+	{
+		"name": "ANDEXANET ALFA"
+	},
+	{
+		"name": "ANETHOL WITH BORNEOL, CAMPHENE, CINEOLE, FENCHONE AND PINENE"
+	},
+	{
+		"name": "ANIDULAFUNGIN"
+	},
+	{
+		"name": "ANTAZOLINE WITH XYLOMETAZOLINE"
+	},
+	{
+		"name": "ANTHRAX VACCINE"
+	},
+	{
+		"name": "ANTI-D (RH0) IMMUNOGLOBULIN"
+	},
+	{
+		"name": "ANTITHYMOCYTE IMMUNOGLOBULIN (RABBIT)"
+	},
+	{
+		"name": "APALUTAMIDE"
+	},
+	{
+		"name": "APIXABAN"
+	},
+	{
+		"name": "APOMORPHINE HYDROCHLORIDE"
+	},
+	{
+		"name": "APRACLONIDINE"
+	},
+	{
+		"name": "APREMILAST"
+	},
+	{
+		"name": "APREPITANT"
+	},
+	{
+		"name": "ARACHIS OIL"
+	},
+	{
+		"name": "ARGATROBAN MONOHYDRATE"
+	},
+	{
+		"name": "ARIPIPRAZOLE"
+	},
+	{
+		"name": "ARSENIC TRIOXIDE"
+	},
+	{
+		"name": "ARTEMETHER WITH LUMEFANTRINE"
+	},
+	{
+		"name": "ARTENIMOL WITH PIPERAQUINE PHOSPHATE"
+	},
+	{
+		"name": "ASCORBIC ACID"
+	},
+	{
+		"name": "ASENAPINE"
+	},
+	{
+		"name": "ASFOTASE ALFA"
+	},
+	{
+		"name": "ASPARAGINASE"
+	},
+	{
+		"name": "ASPIRIN"
+	},
+	{
+		"name": "ASPIRIN WITH CODEINE"
+	},
+	{
+		"name": "ASPIRIN WITH METOCLOPRAMIDE"
+	},
+	{
+		"name": "ATALUREN"
+	},
+	{
+		"name": "ATAZANAVIR"
+	},
+	{
+		"name": "ATAZANAVIR WITH COBICISTAT"
+	},
+	{
+		"name": "ATENOLOL"
+	},
+	{
+		"name": "ATENOLOL WITH NIFEDIPINE"
+	},
+	{
+		"name": "ATEZOLIZUMAB"
+	},
+	{
+		"name": "ATOMOXETINE"
+	},
+	{
+		"name": "ATORVASTATIN"
+	},
+	{
+		"name": "ATOSIBAN"
+	},
+	{
+		"name": "ATOVAQUONE"
+	},
+	{
+		"name": "ATOVAQUONE WITH PROGUANIL HYDROCHLORIDE"
+	},
+	{
+		"name": "ATRACURIUM BESILATE"
+	},
+	{
+		"name": "ATROPINE SULFATE"
+	},
+	{
+		"name": "AVANAFIL"
+	},
+	{
+		"name": "AVELUMAB"
+	},
+	{
+		"name": "AVIPTADIL WITH PHENTOLAMINE MESILATE"
+	},
+	{
+		"name": "AXITINIB"
+	},
+	{
+		"name": "AZACITIDINE"
+	},
+	{
+		"name": "AZATHIOPRINE"
+	},
+	{
+		"name": "AZELAIC ACID"
+	},
+	{
+		"name": "AZELASTINE HYDROCHLORIDE"
+	},
+	{
+		"name": "AZILSARTAN MEDOXOMIL"
+	},
+	{
+		"name": "AZITHROMYCIN"
+	},
+	{
+		"name": "AZTREONAM"
+	},
+	{
+		"name": "BACILLUS CALMETTE-GUÉRIN"
+	},
+	{
+		"name": "BACILLUS CALMETTE-GUÉRIN VACCINE"
+	},
+	{
+		"name": "BACLOFEN"
+	},
+	{
+		"name": "BALSALAZIDE SODIUM"
+	},
+	{
+		"name": "BAMBUTEROL HYDROCHLORIDE"
+	},
+	{
+		"name": "BARICITINIB"
+	},
+	{
+		"name": "BARRIER CREAMS AND OINTMENTS"
+	},
+	{
+		"name": "BASILIXIMAB"
+	},
+	{
+		"name": "BECLOMETASONE DIPROPIONATE"
+	},
+	{
+		"name": "BECLOMETASONE WITH FORMOTEROL"
+	},
+	{
+		"name": "BECLOMETASONE WITH FORMOTEROL AND GLYCOPYRRONIUM"
+	},
+	{
+		"name": "BEDAQUILINE"
+	},
+	{
+		"name": "BEE VENOM EXTRACT"
+	},
+	{
+		"name": "BELATACEPT"
+	},
+	{
+		"name": "BELIMUMAB"
+	},
+	{
+		"name": "BENDAMUSTINE HYDROCHLORIDE"
+	},
+	{
+		"name": "BENDROFLUMETHIAZIDE"
+	},
+	{
+		"name": "BENPERIDOL"
+	},
+	{
+		"name": "BENRALIZUMAB"
+	},
+	{
+		"name": "BENZALKONIUM CHLORIDE"
+	},
+	{
+		"name": "BENZATHINE BENZYLPENICILLIN"
+	},
+	{
+		"name": "BENZOIC ACID WITH SALICYLIC ACID"
+	},
+	{
+		"name": "BENZOIN TINCTURE, COMPOUND"
+	},
+	{
+		"name": "BENZOYL PEROXIDE"
+	},
+	{
+		"name": "BENZOYL PEROXIDE WITH CLINDAMYCIN"
+	},
+	{
+		"name": "BENZYDAMINE HYDROCHLORIDE"
+	},
+	{
+		"name": "BENZYL BENZOATE"
+	},
+	{
+		"name": "BENZYL BENZOATE WITH BISMUTH OXIDE, BISMUTH SUBGALLATE, HYDROCORTISONE ACETATE, PERU BALSAM AND ZINC OXIDE"
+	},
+	{
+		"name": "BENZYLPENICILLIN SODIUM"
+	},
+	{
+		"name": "BETAHISTINE DIHYDROCHLORIDE"
+	},
+	{
+		"name": "BETAINE"
+	},
+	{
+		"name": "BETAMETHASONE"
+	},
+	{
+		"name": "BETAMETHASONE WITH CLIOQUINOL"
+	},
+	{
+		"name": "BETAMETHASONE WITH CLOTRIMAZOLE"
+	},
+	{
+		"name": "BETAMETHASONE WITH FUSIDIC ACID"
+	},
+	{
+		"name": "BETAMETHASONE WITH NEOMYCIN"
+	},
+	{
+		"name": "BETAMETHASONE WITH SALICYLIC ACID"
+	},
+	{
+		"name": "BETAXOLOL"
+	},
+	{
+		"name": "BETHANECHOL CHLORIDE"
+	},
+	{
+		"name": "BEVACIZUMAB"
+	},
+	{
+		"name": "BEXAROTENE"
+	},
+	{
+		"name": "BEZAFIBRATE"
+	},
+	{
+		"name": "BEZLOTOXUMAB"
+	},
+	{
+		"name": "BICALUTAMIDE"
+	},
+	{
+		"name": "BICTEGRAVIR WITH EMTRICITABINE AND TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "BILASTINE"
+	},
+	{
+		"name": "BIMATOPROST"
+	},
+	{
+		"name": "BIMATOPROST WITH TIMOLOL"
+	},
+	{
+		"name": "BINIMETINIB"
+	},
+	{
+		"name": "BIPHASIC INSULIN ASPART"
+	},
+	{
+		"name": "BIPHASIC INSULIN LISPRO"
+	},
+	{
+		"name": "BIPHASIC ISOPHANE INSULIN"
+	},
+	{
+		"name": "BISACODYL"
+	},
+	{
+		"name": "BISMUTH SUBSALICYLATE"
+	},
+	{
+		"name": "BISOPROLOL FUMARATE"
+	},
+	{
+		"name": "BIVALIRUDIN"
+	},
+	{
+		"name": "BLEOMYCIN"
+	},
+	{
+		"name": "BLINATUMOMAB"
+	},
+	{
+		"name": "BORNEOL WITH CAMPHENE, CINEOLE, MENTHOL, MENTHONE AND PINENE"
+	},
+	{
+		"name": "BORTEZOMIB"
+	},
+	{
+		"name": "BOSENTAN"
+	},
+	{
+		"name": "BOSUTINIB"
+	},
+	{
+		"name": "BOTULINUM TOXIN TYPE A"
+	},
+	{
+		"name": "BOTULINUM TOXIN TYPE B"
+	},
+	{
+		"name": "BOTULISM ANTITOXIN"
+	},
+	{
+		"name": "BRENTUXIMAB VEDOTIN"
+	},
+	{
+		"name": "BRIGATINIB"
+	},
+	{
+		"name": "BRIMONIDINE TARTRATE"
+	},
+	{
+		"name": "BRIMONIDINE WITH TIMOLOL"
+	},
+	{
+		"name": "BRINZOLAMIDE"
+	},
+	{
+		"name": "BRINZOLAMIDE WITH BRIMONIDINE"
+	},
+	{
+		"name": "BRINZOLAMIDE WITH TIMOLOL"
+	},
+	{
+		"name": "BRIVARACETAM"
+	},
+	{
+		"name": "BRODALUMAB"
+	},
+	{
+		"name": "BROMFENAC"
+	},
+	{
+		"name": "BROMOCRIPTINE"
+	},
+	{
+		"name": "BUDESONIDE"
+	},
+	{
+		"name": "BUDESONIDE WITH FORMOTEROL"
+	},
+	{
+		"name": "BUMETANIDE"
+	},
+	{
+		"name": "BUPIVACAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "BUPIVACAINE WITH ADRENALINE"
+	},
+	{
+		"name": "BUPIVACAINE WITH FENTANYL"
+	},
+	{
+		"name": "BUPRENORPHINE"
+	},
+	{
+		"name": "BUPRENORPHINE WITH NALOXONE"
+	},
+	{
+		"name": "BUPROPION HYDROCHLORIDE"
+	},
+	{
+		"name": "BUSERELIN"
+	},
+	{
+		"name": "BUSPIRONE HYDROCHLORIDE"
+	},
+	{
+		"name": "BUSULFAN"
+	},
+	{
+		"name": "C1-ESTERASE INHIBITOR"
+	},
+	{
+		"name": "CABAZITAXEL"
+	},
+	{
+		"name": "CABERGOLINE"
+	},
+	{
+		"name": "CABOZANTINIB"
+	},
+	{
+		"name": "CALAMINE WITH ZINC OXIDE"
+	},
+	{
+		"name": "CALCIPOTRIOL"
+	},
+	{
+		"name": "CALCIPOTRIOL WITH BETAMETHASONE"
+	},
+	{
+		"name": "CALCITONIN (SALMON)"
+	},
+	{
+		"name": "CALCITRIOL"
+	},
+	{
+		"name": "CALCIUM ACETATE"
+	},
+	{
+		"name": "CALCIUM ACETATE WITH MAGNESIUM CARBONATE"
+	},
+	{
+		"name": "CALCIUM CARBONATE"
+	},
+	{
+		"name": "CALCIUM CARBONATE WITH CALCIUM LACTATE GLUCONATE"
+	},
+	{
+		"name": "CALCIUM CHLORIDE"
+	},
+	{
+		"name": "CALCIUM GLUCONATE"
+	},
+	{
+		"name": "CALCIUM LACTATE"
+	},
+	{
+		"name": "CALCIUM PHOSPHATE"
+	},
+	{
+		"name": "CALCIUM POLYSTYRENE SULFONATE"
+	},
+	{
+		"name": "CAMELLIA SINENSIS"
+	},
+	{
+		"name": "CANAGLIFLOZIN"
+	},
+	{
+		"name": "CANAGLIFLOZIN WITH METFORMIN"
+	},
+	{
+		"name": "CANAKINUMAB"
+	},
+	{
+		"name": "CANDESARTAN CILEXETIL"
+	},
+	{
+		"name": "CANGRELOR"
+	},
+	{
+		"name": "CANNABIDIOL"
+	},
+	{
+		"name": "CANNABIS EXTRACT"
+	},
+	{
+		"name": "CAPECITABINE"
+	},
+	{
+		"name": "CAPLACIZUMAB"
+	},
+	{
+		"name": "CAPREOMYCIN"
+	},
+	{
+		"name": "CAPSAICIN"
+	},
+	{
+		"name": "CAPTOPRIL"
+	},
+	{
+		"name": "CARBAMAZEPINE"
+	},
+	{
+		"name": "CARBETOCIN"
+	},
+	{
+		"name": "CARBIMAZOLE"
+	},
+	{
+		"name": "CARBOCISTEINE"
+	},
+	{
+		"name": "CARBOMERS"
+	},
+	{
+		"name": "CARBOPLATIN"
+	},
+	{
+		"name": "CARBOPROST"
+	},
+	{
+		"name": "CARFILZOMIB"
+	},
+	{
+		"name": "CARGLUMIC ACID"
+	},
+	{
+		"name": "CARIPRAZINE"
+	},
+	{
+		"name": "CARMELLOSE SODIUM"
+	},
+	{
+		"name": "CARMUSTINE"
+	},
+	{
+		"name": "CARVEDILOL"
+	},
+	{
+		"name": "CASPOFUNGIN"
+	},
+	{
+		"name": "CASTOR OIL WITH COLLODION AND COLOPHONY"
+	},
+	{
+		"name": "CEFACLOR"
+	},
+	{
+		"name": "CEFADROXIL"
+	},
+	{
+		"name": "CEFALEXIN"
+	},
+	{
+		"name": "CEFEPIME"
+	},
+	{
+		"name": "CEFIXIME"
+	},
+	{
+		"name": "CEFOTAXIME"
+	},
+	{
+		"name": "CEFOXITIN"
+	},
+	{
+		"name": "CEFRADINE"
+	},
+	{
+		"name": "CEFTAROLINE FOSAMIL"
+	},
+	{
+		"name": "CEFTAZIDIME"
+	},
+	{
+		"name": "CEFTAZIDIME WITH AVIBACTAM"
+	},
+	{
+		"name": "CEFTOBIPROLE"
+	},
+	{
+		"name": "CEFTOLOZANE WITH TAZOBACTAM"
+	},
+	{
+		"name": "CEFTRIAXONE"
+	},
+	{
+		"name": "CEFUROXIME"
+	},
+	{
+		"name": "CELECOXIB"
+	},
+	{
+		"name": "CELIPROLOL HYDROCHLORIDE"
+	},
+	{
+		"name": "CEMIPLIMAB"
+	},
+	{
+		"name": "CENEGERMIN"
+	},
+	{
+		"name": "CERITINIB"
+	},
+	{
+		"name": "CERTOLIZUMAB PEGOL"
+	},
+	{
+		"name": "CETIRIZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "CETRIMIDE WITH UNDECENOIC ACID"
+	},
+	{
+		"name": "CETRORELIX"
+	},
+	{
+		"name": "CETUXIMAB"
+	},
+	{
+		"name": "CHARCOAL, ACTIVATED"
+	},
+	{
+		"name": "CHENODEOXYCHOLIC ACID"
+	},
+	{
+		"name": "CHLORAL HYDRATE"
+	},
+	{
+		"name": "CHLORAMBUCIL"
+	},
+	{
+		"name": "CHLORAMPHENICOL"
+	},
+	{
+		"name": "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+	},
+	{
+		"name": "CHLORHEXIDINE"
+	},
+	{
+		"name": "CHLORHEXIDINE GLUCONATE WITH ISOPROPYL ALCOHOL"
+	},
+	{
+		"name": "CHLORHEXIDINE WITH CETRIMIDE"
+	},
+	{
+		"name": "CHLORHEXIDINE WITH LIDOCAINE"
+	},
+	{
+		"name": "CHLORHEXIDINE WITH NEOMYCIN"
+	},
+	{
+		"name": "CHLORHEXIDINE WITH NYSTATIN"
+	},
+	{
+		"name": "CHLORMETHINE"
+	},
+	{
+		"name": "CHLOROQUINE"
+	},
+	{
+		"name": "CHLOROQUINE WITH PROGUANIL"
+	},
+	{
+		"name": "CHLORPHENAMINE MALEATE"
+	},
+	{
+		"name": "CHLORPROMAZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "CHLORTALIDONE"
+	},
+	{
+		"name": "CHOLERA VACCINE"
+	},
+	{
+		"name": "CHOLIC ACID"
+	},
+	{
+		"name": "CHOLINE SALICYLATE"
+	},
+	{
+		"name": "CHORIOGONADOTROPIN ALFA"
+	},
+	{
+		"name": "CICLESONIDE"
+	},
+	{
+		"name": "CICLOSPORIN"
+	},
+	{
+		"name": "CIDOFOVIR"
+	},
+	{
+		"name": "CILOSTAZOL"
+	},
+	{
+		"name": "CIMETIDINE"
+	},
+	{
+		"name": "CINACALCET"
+	},
+	{
+		"name": "CINCHOCAINE HYDROCHLORIDE WITH FLUOCORTOLONE CAPROATE AND FLUOCORTOLONE PIVALATE"
+	},
+	{
+		"name": "CINCHOCAINE WITH HYDROCORTISONE"
+	},
+	{
+		"name": "CINCHOCAINE WITH PREDNISOLONE"
+	},
+	{
+		"name": "CINNARIZINE"
+	},
+	{
+		"name": "CINNARIZINE WITH DIMENHYDRINATE"
+	},
+	{
+		"name": "CIPROFIBRATE"
+	},
+	{
+		"name": "CIPROFLOXACIN"
+	},
+	{
+		"name": "CIPROFLOXACIN WITH DEXAMETHASONE"
+	},
+	{
+		"name": "CIPROFLOXACIN WITH FLUOCINOLONE ACETONIDE"
+	},
+	{
+		"name": "CISATRACURIUM"
+	},
+	{
+		"name": "CISPLATIN"
+	},
+	{
+		"name": "CITALOPRAM"
+	},
+	{
+		"name": "CITRIC ACID"
+	},
+	{
+		"name": "CITRIC ACID WITH MAGNESIUM CARBONATE"
+	},
+	{
+		"name": "CITRIC ACID WITH POTASSIUM CITRATE"
+	},
+	{
+		"name": "CLADRIBINE"
+	},
+	{
+		"name": "CLARITHROMYCIN"
+	},
+	{
+		"name": "CLEMASTINE"
+	},
+	{
+		"name": "CLINDAMYCIN"
+	},
+	{
+		"name": "CLOBAZAM"
+	},
+	{
+		"name": "CLOBETASOL PROPIONATE"
+	},
+	{
+		"name": "CLOBETASOL PROPIONATE WITH NEOMYCIN SULFATE AND NYSTATIN"
+	},
+	{
+		"name": "CLOBETASONE BUTYRATE"
+	},
+	{
+		"name": "CLOBETASONE BUTYRATE WITH NYSTATIN AND OXYTETRACYCLINE"
+	},
+	{
+		"name": "CLOFARABINE"
+	},
+	{
+		"name": "CLOFAZIMINE"
+	},
+	{
+		"name": "CLOMETHIAZOLE"
+	},
+	{
+		"name": "CLOMIFENE CITRATE"
+	},
+	{
+		"name": "CLOMIPRAMINE HYDROCHLORIDE"
+	},
+	{
+		"name": "CLONAZEPAM"
+	},
+	{
+		"name": "CLONIDINE HYDROCHLORIDE"
+	},
+	{
+		"name": "CLOPIDOGREL"
+	},
+	{
+		"name": "CLOTRIMAZOLE"
+	},
+	{
+		"name": "CLOZAPINE"
+	},
+	{
+		"name": "CO-AMILOFRUSE"
+	},
+	{
+		"name": "CO-AMILOZIDE"
+	},
+	{
+		"name": "CO-AMOXICLAV"
+	},
+	{
+		"name": "CO-BENELDOPA"
+	},
+	{
+		"name": "CO-CARELDOPA"
+	},
+	{
+		"name": "CO-CODAMOL"
+	},
+	{
+		"name": "CO-CYPRINDIOL"
+	},
+	{
+		"name": "CO-DANTHRAMER"
+	},
+	{
+		"name": "CO-DANTHRUSATE"
+	},
+	{
+		"name": "CO-FLUAMPICIL"
+	},
+	{
+		"name": "CO-FLUMACTONE"
+	},
+	{
+		"name": "CO-MAGALDROX"
+	},
+	{
+		"name": "CO-PHENOTROPE"
+	},
+	{
+		"name": "CO-SIMALCITE"
+	},
+	{
+		"name": "CO-TENIDONE"
+	},
+	{
+		"name": "CO-TRIAMTERZIDE"
+	},
+	{
+		"name": "CO-TRIMOXAZOLE"
+	},
+	{
+		"name": "COAL TAR"
+	},
+	{
+		"name": "COAL TAR WITH CALAMINE"
+	},
+	{
+		"name": "COAL TAR WITH COCONUT OIL AND SALICYLIC ACID"
+	},
+	{
+		"name": "COAL TAR WITH DITHRANOL AND SALICYLIC ACID"
+	},
+	{
+		"name": "COAL TAR WITH SALICYLIC ACID"
+	},
+	{
+		"name": "COAL TAR WITH SALICYLIC ACID AND PRECIPITATED SULFUR"
+	},
+	{
+		"name": "COAL TAR WITH ZINC OXIDE"
+	},
+	{
+		"name": "COBICISTAT"
+	},
+	{
+		"name": "COBIMETINIB"
+	},
+	{
+		"name": "CODEINE PHOSPHATE"
+	},
+	{
+		"name": "COLCHICINE"
+	},
+	{
+		"name": "COLECALCIFEROL"
+	},
+	{
+		"name": "COLECALCIFEROL WITH CALCIUM CARBONATE"
+	},
+	{
+		"name": "COLECALCIFEROL WITH CALCIUM PHOSPHATE"
+	},
+	{
+		"name": "COLESEVELAM HYDROCHLORIDE"
+	},
+	{
+		"name": "COLESTIPOL HYDROCHLORIDE"
+	},
+	{
+		"name": "COLESTYRAMINE"
+	},
+	{
+		"name": "COLISTIMETHATE SODIUM"
+	},
+	{
+		"name": "COLLAGENASE"
+	},
+	{
+		"name": "CONESTAT ALFA"
+	},
+	{
+		"name": "CONJUGATED OESTROGENS (EQUINE)"
+	},
+	{
+		"name": "CONJUGATED OESTROGENS WITH BAZEDOXIFENE ACETATE"
+	},
+	{
+		"name": "CONJUGATED OESTROGENS WITH MEDROXYPROGESTERONE"
+	},
+	{
+		"name": "CRANBERRY JUICE"
+	},
+	{
+		"name": "CRISANTASPASE"
+	},
+	{
+		"name": "CRIZOTINIB"
+	},
+	{
+		"name": "CROTAMITON"
+	},
+	{
+		"name": "CYANOCOBALAMIN"
+	},
+	{
+		"name": "CYCLIZINE"
+	},
+	{
+		"name": "CYCLOPENTOLATE HYDROCHLORIDE"
+	},
+	{
+		"name": "CYCLOPHOSPHAMIDE"
+	},
+	{
+		"name": "CYCLOSERINE"
+	},
+	{
+		"name": "CYPROHEPTADINE HYDROCHLORIDE"
+	},
+	{
+		"name": "CYPROTERONE ACETATE"
+	},
+	{
+		"name": "CYTARABINE"
+	},
+	{
+		"name": "CYTOMEGALOVIRUS IMMUNOGLOBULIN"
+	},
+	{
+		"name": "DABIGATRAN ETEXILATE"
+	},
+	{
+		"name": "DABRAFENIB"
+	},
+	{
+		"name": "DACARBAZINE"
+	},
+	{
+		"name": "DACOMITINIB"
+	},
+	{
+		"name": "DAIRY PRODUCTS"
+	},
+	{
+		"name": "DALBAVANCIN"
+	},
+	{
+		"name": "DALTEPARIN SODIUM"
+	},
+	{
+		"name": "DANAPAROID SODIUM"
+	},
+	{
+		"name": "DANAZOL"
+	},
+	{
+		"name": "DANTROLENE SODIUM"
+	},
+	{
+		"name": "DAPAGLIFLOZIN"
+	},
+	{
+		"name": "DAPAGLIFLOZIN WITH METFORMIN"
+	},
+	{
+		"name": "DAPOXETINE"
+	},
+	{
+		"name": "DAPSONE"
+	},
+	{
+		"name": "DAPTOMYCIN"
+	},
+	{
+		"name": "DARATUMUMAB"
+	},
+	{
+		"name": "DARBEPOETIN ALFA"
+	},
+	{
+		"name": "DARIFENACIN"
+	},
+	{
+		"name": "DARUNAVIR"
+	},
+	{
+		"name": "DARUNAVIR WITH COBICISTAT"
+	},
+	{
+		"name": "DARUNAVIR WITH COBICISTAT, EMTRICITABINE AND TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "DASABUVIR"
+	},
+	{
+		"name": "DASATINIB"
+	},
+	{
+		"name": "DAUNORUBICIN"
+	},
+	{
+		"name": "DAUNORUBICIN WITH CYTARABINE"
+	},
+	{
+		"name": "DECITABINE"
+	},
+	{
+		"name": "DEFERASIROX"
+	},
+	{
+		"name": "DEFERIPRONE"
+	},
+	{
+		"name": "DEFLAZACORT"
+	},
+	{
+		"name": "DEGARELIX"
+	},
+	{
+		"name": "DELAMANID"
+	},
+	{
+		"name": "DEMECLOCYCLINE HYDROCHLORIDE"
+	},
+	{
+		"name": "DENOSUMAB"
+	},
+	{
+		"name": "DEQUALINIUM CHLORIDE"
+	},
+	{
+		"name": "DESFERRIOXAMINE MESILATE"
+	},
+	{
+		"name": "DESFLURANE"
+	},
+	{
+		"name": "DESLORATADINE"
+	},
+	{
+		"name": "DESMOPRESSIN"
+	},
+	{
+		"name": "DESOGESTREL"
+	},
+	{
+		"name": "DEXAMETHASONE"
+	},
+	{
+		"name": "DEXAMETHASONE WITH FRAMYCETIN SULFATE AND GRAMICIDIN"
+	},
+	{
+		"name": "DEXAMETHASONE WITH GLACIAL ACETIC ACID AND NEOMYCIN SULFATE"
+	},
+	{
+		"name": "DEXAMETHASONE WITH HYPROMELLOSE, NEOMYCIN AND POLYMYXIN B SULFATE"
+	},
+	{
+		"name": "DEXAMETHASONE WITH TOBRAMYCIN"
+	},
+	{
+		"name": "DEXAMFETAMINE SULFATE"
+	},
+	{
+		"name": "DEXIBUPROFEN"
+	},
+	{
+		"name": "DEXKETOPROFEN"
+	},
+	{
+		"name": "DEXMEDETOMIDINE"
+	},
+	{
+		"name": "DEXRAZOXANE"
+	},
+	{
+		"name": "DIAMORPHINE HYDROCHLORIDE"
+	},
+	{
+		"name": "DIAZEPAM"
+	},
+	{
+		"name": "DIAZOXIDE"
+	},
+	{
+		"name": "DICLOFENAC"
+	},
+	{
+		"name": "DICLOFENAC POTASSIUM"
+	},
+	{
+		"name": "DICLOFENAC SODIUM"
+	},
+	{
+		"name": "DICLOFENAC SODIUM WITH MISOPROSTOL"
+	},
+	{
+		"name": "DICOBALT EDETATE"
+	},
+	{
+		"name": "DICYCLOVERINE HYDROCHLORIDE"
+	},
+	{
+		"name": "DICYCLOVERINE HYDROCHLORIDE WITH ALUMINIUM HYDROXIDE, MAGNESIUM OXIDE AND SIMETICONE"
+	},
+	{
+		"name": "DIENOGEST"
+	},
+	{
+		"name": "DIENOGEST WITH ESTRADIOL VALERATE"
+	},
+	{
+		"name": "DIETHYL PHTHALATE WITH METHYL SALICYLATE"
+	},
+	{
+		"name": "DIETHYLCARBAMAZINE"
+	},
+	{
+		"name": "DIETHYLSTILBESTROL"
+	},
+	{
+		"name": "DIFLUCORTOLONE VALERATE"
+	},
+	{
+		"name": "DIGOXIN"
+	},
+	{
+		"name": "DIGOXIN-SPECIFIC ANTIBODY"
+	},
+	{
+		"name": "DIHYDROCODEINE TARTRATE"
+	},
+	{
+		"name": "DIHYDROCODEINE WITH PARACETAMOL"
+	},
+	{
+		"name": "DIHYDROTACHYSTEROL"
+	},
+	{
+		"name": "DILTIAZEM HYDROCHLORIDE"
+	},
+	{
+		"name": "DIMETHYL FUMARATE"
+	},
+	{
+		"name": "DIMETICONE"
+	},
+	{
+		"name": "DINOPROSTONE"
+	},
+	{
+		"name": "DINUTUXIMAB BETA"
+	},
+	{
+		"name": "DIPHTHERIA ANTITOXIN"
+	},
+	{
+		"name": "DIPHTHERIA WITH TETANUS AND POLIOMYELITIS VACCINE"
+	},
+	{
+		"name": "DIPHTHERIA WITH TETANUS, PERTUSSIS AND POLIOMYELITIS VACCINE"
+	},
+	{
+		"name": "DIPHTHERIA WITH TETANUS, PERTUSSIS, HEPATITIS B, POLIOMYELITIS AND HAEMOPHILUS INFLUENZAE TYPE B VACCINE"
+	},
+	{
+		"name": "DIPHTHERIA WITH TETANUS, PERTUSSIS, POLIOMYELITIS AND HAEMOPHILUS INFLUENZAE TYPE B VACCINE"
+	},
+	{
+		"name": "DIPIPANONE HYDROCHLORIDE WITH CYCLIZINE"
+	},
+	{
+		"name": "DIPYRIDAMOLE"
+	},
+	{
+		"name": "DIPYRIDAMOLE WITH ASPIRIN"
+	},
+	{
+		"name": "DISODIUM HYDROGEN CITRATE WITH GLUCOSE, POTASSIUM CHLORIDE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "DISOPYRAMIDE"
+	},
+	{
+		"name": "DISULFIRAM"
+	},
+	{
+		"name": "DITHRANOL"
+	},
+	{
+		"name": "DITHRANOL WITH SALICYLIC ACID AND ZINC OXIDE"
+	},
+	{
+		"name": "DOBUTAMINE"
+	},
+	{
+		"name": "DOCETAXEL"
+	},
+	{
+		"name": "DOCUSATE SODIUM"
+	},
+	{
+		"name": "DOLUTEGRAVIR"
+	},
+	{
+		"name": "DOLUTEGRAVIR WITH RILPIVIRINE"
+	},
+	{
+		"name": "DOMPERIDONE"
+	},
+	{
+		"name": "DONEPEZIL HYDROCHLORIDE"
+	},
+	{
+		"name": "DOPAMINE HYDROCHLORIDE"
+	},
+	{
+		"name": "DORAVIRINE"
+	},
+	{
+		"name": "DORNASE ALFA"
+	},
+	{
+		"name": "DORZOLAMIDE"
+	},
+	{
+		"name": "DORZOLAMIDE WITH TIMOLOL"
+	},
+	{
+		"name": "DOSULEPIN HYDROCHLORIDE"
+	},
+	{
+		"name": "DOXAPRAM HYDROCHLORIDE"
+	},
+	{
+		"name": "DOXAZOSIN"
+	},
+	{
+		"name": "DOXEPIN"
+	},
+	{
+		"name": "DOXORUBICIN HYDROCHLORIDE"
+	},
+	{
+		"name": "DOXYCYCLINE"
+	},
+	{
+		"name": "DOXYLAMINE WITH PYRIDOXINE"
+	},
+	{
+		"name": "DRIED PROTHROMBIN COMPLEX"
+	},
+	{
+		"name": "DRONEDARONE"
+	},
+	{
+		"name": "DROPERIDOL"
+	},
+	{
+		"name": "DULAGLUTIDE"
+	},
+	{
+		"name": "DULOXETINE"
+	},
+	{
+		"name": "DUPILUMAB"
+	},
+	{
+		"name": "DURVALUMAB"
+	},
+	{
+		"name": "DUTASTERIDE"
+	},
+	{
+		"name": "ECONAZOLE NITRATE"
+	},
+	{
+		"name": "ECULIZUMAB"
+	},
+	{
+		"name": "EDOXABAN"
+	},
+	{
+		"name": "EFAVIRENZ"
+	},
+	{
+		"name": "EFAVIRENZ WITH EMTRICITABINE AND TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "EFLORNITHINE"
+	},
+	{
+		"name": "ELBASVIR WITH GRAZOPREVIR"
+	},
+	{
+		"name": "ELETRIPTAN"
+	},
+	{
+		"name": "ELIGLUSTAT"
+	},
+	{
+		"name": "ELOSULFASE ALFA"
+	},
+	{
+		"name": "ELOTUZUMAB"
+	},
+	{
+		"name": "ELTROMBOPAG"
+	},
+	{
+		"name": "ELVITEGRAVIR"
+	},
+	{
+		"name": "ELVITEGRAVIR WITH COBICISTAT, EMTRICITABINE AND TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "ELVITEGRAVIR WITH COBICISTAT, EMTRICITABINE AND TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "EMICIZUMAB"
+	},
+	{
+		"name": "EMOLLIENT BATH AND SHOWER PRODUCTS, ANTIMICROBIAL-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT BATH AND SHOWER PRODUCTS, PARAFFIN-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT BATH AND SHOWER PRODUCTS, SOYA-BEAN OIL-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT BATH AND SHOWER PRODUCTS, TAR-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT CREAMS AND OINTMENTS, ANTIMICROBIAL-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT CREAMS AND OINTMENTS, COLLOIDAL OATMEAL-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENT CREAMS AND OINTMENTS, PARAFFIN-CONTAINING"
+	},
+	{
+		"name": "EMOLLIENTS, UREA-CONTAINING"
+	},
+	{
+		"name": "EMPAGLIFLOZIN"
+	},
+	{
+		"name": "EMPAGLIFLOZIN WITH LINAGLIPTIN"
+	},
+	{
+		"name": "EMPAGLIFLOZIN WITH METFORMIN"
+	},
+	{
+		"name": "EMTRICITABINE"
+	},
+	{
+		"name": "EMTRICITABINE WITH RILPIVIRINE AND TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "EMTRICITABINE WITH RILPIVIRINE AND TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "EMTRICITABINE WITH TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "EMTRICITABINE WITH TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "ENALAPRIL MALEATE"
+	},
+	{
+		"name": "ENALAPRIL WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "ENCORAFENIB"
+	},
+	{
+		"name": "ENFUVIRTIDE"
+	},
+	{
+		"name": "ENOXAPARIN SODIUM"
+	},
+	{
+		"name": "ENOXIMONE"
+	},
+	{
+		"name": "ENTACAPONE"
+	},
+	{
+		"name": "ENTECAVIR"
+	},
+	{
+		"name": "ENTERAL FEEDS"
+	},
+	{
+		"name": "ENZALUTAMIDE"
+	},
+	{
+		"name": "EPHEDRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "EPINASTINE HYDROCHLORIDE"
+	},
+	{
+		"name": "EPIRUBICIN HYDROCHLORIDE"
+	},
+	{
+		"name": "EPLERENONE"
+	},
+	{
+		"name": "EPOETIN ALFA"
+	},
+	{
+		"name": "EPOETIN BETA"
+	},
+	{
+		"name": "EPOETIN ZETA"
+	},
+	{
+		"name": "EPOPROSTENOL"
+	},
+	{
+		"name": "EPROSARTAN"
+	},
+	{
+		"name": "EPTIFIBATIDE"
+	},
+	{
+		"name": "ERDOSTEINE"
+	},
+	{
+		"name": "ERENUMAB"
+	},
+	{
+		"name": "ERGOCALCIFEROL"
+	},
+	{
+		"name": "ERGOCALCIFEROL WITH CALCIUM LACTATE AND CALCIUM PHOSPHATE"
+	},
+	{
+		"name": "ERGOMETRINE MALEATE"
+	},
+	{
+		"name": "ERGOMETRINE WITH OXYTOCIN"
+	},
+	{
+		"name": "ERGOTAMINE TARTRATE"
+	},
+	{
+		"name": "ERGOTAMINE TARTRATE WITH CAFFEINE HYDRATE AND CYCLIZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "ERIBULIN"
+	},
+	{
+		"name": "ERLOTINIB"
+	},
+	{
+		"name": "ERTAPENEM"
+	},
+	{
+		"name": "ERTUGLIFLOZIN"
+	},
+	{
+		"name": "ERYTHROMYCIN"
+	},
+	{
+		"name": "ERYTHROMYCIN WITH ZINC ACETATE"
+	},
+	{
+		"name": "ESCITALOPRAM"
+	},
+	{
+		"name": "ESKETAMINE"
+	},
+	{
+		"name": "ESLICARBAZEPINE ACETATE"
+	},
+	{
+		"name": "ESMOLOL HYDROCHLORIDE"
+	},
+	{
+		"name": "ESOMEPRAZOLE"
+	},
+	{
+		"name": "ESTRADIOL"
+	},
+	{
+		"name": "ESTRADIOL WITH DYDROGESTERONE"
+	},
+	{
+		"name": "ESTRADIOL WITH LEVONORGESTREL"
+	},
+	{
+		"name": "ESTRADIOL WITH MEDROXYPROGESTERONE"
+	},
+	{
+		"name": "ESTRADIOL WITH NOMEGESTROL"
+	},
+	{
+		"name": "ESTRADIOL WITH NORETHISTERONE"
+	},
+	{
+		"name": "ESTRAMUSTINE PHOSPHATE"
+	},
+	{
+		"name": "ESTRIOL"
+	},
+	{
+		"name": "ETANERCEPT"
+	},
+	{
+		"name": "ETELCALCETIDE"
+	},
+	{
+		"name": "ETHAMBUTOL HYDROCHLORIDE"
+	},
+	{
+		"name": "ETHINYLESTRADIOL"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH DESOGESTREL"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH DROSPIRENONE"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH ETONOGESTREL"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH GESTODENE"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH LEVONORGESTREL"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH NORELGESTROMIN"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH NORETHISTERONE"
+	},
+	{
+		"name": "ETHINYLESTRADIOL WITH NORGESTIMATE"
+	},
+	{
+		"name": "ETHOSUXIMIDE"
+	},
+	{
+		"name": "ETODOLAC"
+	},
+	{
+		"name": "ETOMIDATE"
+	},
+	{
+		"name": "ETONOGESTREL"
+	},
+	{
+		"name": "ETOPOSIDE"
+	},
+	{
+		"name": "ETORICOXIB"
+	},
+	{
+		"name": "ETRAVIRINE"
+	},
+	{
+		"name": "EUCALYPTUS WITH MENTHOL"
+	},
+	{
+		"name": "EUROPEAN VIPER SNAKE VENOM ANTISERUM"
+	},
+	{
+		"name": "EVEROLIMUS"
+	},
+	{
+		"name": "EVOLOCUMAB"
+	},
+	{
+		"name": "EXEMESTANE"
+	},
+	{
+		"name": "EXENATIDE"
+	},
+	{
+		"name": "EZETIMIBE"
+	},
+	{
+		"name": "FACTOR IX FRACTION, DRIED"
+	},
+	{
+		"name": "FACTOR VIIA (RECOMBINANT)"
+	},
+	{
+		"name": "FACTOR VIII FRACTION, DRIED"
+	},
+	{
+		"name": "FACTOR VIII INHIBITOR BYPASSING FRACTION"
+	},
+	{
+		"name": "FACTOR XIII FRACTION, DRIED"
+	},
+	{
+		"name": "FAMCICLOVIR"
+	},
+	{
+		"name": "FAMOTIDINE"
+	},
+	{
+		"name": "FAMPRIDINE"
+	},
+	{
+		"name": "FEBUXOSTAT"
+	},
+	{
+		"name": "FELBINAC"
+	},
+	{
+		"name": "FELODIPINE"
+	},
+	{
+		"name": "FENOFIBRATE"
+	},
+	{
+		"name": "FENTANYL"
+	},
+	{
+		"name": "FENTICONAZOLE NITRATE"
+	},
+	{
+		"name": "FERRIC CARBOXYMALTOSE"
+	},
+	{
+		"name": "FERRIC MALTOL"
+	},
+	{
+		"name": "FERROUS FUMARATE"
+	},
+	{
+		"name": "FERROUS FUMARATE WITH FOLIC ACID"
+	},
+	{
+		"name": "FERROUS GLUCONATE"
+	},
+	{
+		"name": "FERROUS SULFATE"
+	},
+	{
+		"name": "FERROUS SULFATE WITH ASCORBIC ACID"
+	},
+	{
+		"name": "FERROUS SULFATE WITH FOLIC ACID"
+	},
+	{
+		"name": "FESOTERODINE FUMARATE"
+	},
+	{
+		"name": "FEXOFENADINE HYDROCHLORIDE"
+	},
+	{
+		"name": "FIBRINOGEN, DRIED"
+	},
+	{
+		"name": "FIDAXOMICIN"
+	},
+	{
+		"name": "FILGRASTIM"
+	},
+	{
+		"name": "FINASTERIDE"
+	},
+	{
+		"name": "FINGOLIMOD"
+	},
+	{
+		"name": "FLAVOXATE HYDROCHLORIDE"
+	},
+	{
+		"name": "FLECAINIDE ACETATE"
+	},
+	{
+		"name": "FLUCLOXACILLIN"
+	},
+	{
+		"name": "FLUCONAZOLE"
+	},
+	{
+		"name": "FLUCYTOSINE"
+	},
+	{
+		"name": "FLUDARABINE PHOSPHATE"
+	},
+	{
+		"name": "FLUDROCORTISONE ACETATE"
+	},
+	{
+		"name": "FLUDROXYCORTIDE"
+	},
+	{
+		"name": "FLUMAZENIL"
+	},
+	{
+		"name": "FLUMETASONE PIVALATE WITH CLIOQUINOL"
+	},
+	{
+		"name": "FLUOCINOLONE ACETONIDE"
+	},
+	{
+		"name": "FLUOCINOLONE ACETONIDE WITH CLIOQUINOL"
+	},
+	{
+		"name": "FLUOCINOLONE ACETONIDE WITH NEOMYCIN"
+	},
+	{
+		"name": "FLUOCINONIDE"
+	},
+	{
+		"name": "FLUORESCEIN SODIUM"
+	},
+	{
+		"name": "FLUORESCEIN WITH LIDOCAINE"
+	},
+	{
+		"name": "FLUOROMETHOLONE"
+	},
+	{
+		"name": "FLUOROURACIL"
+	},
+	{
+		"name": "FLUOROURACIL WITH SALICYLIC ACID"
+	},
+	{
+		"name": "FLUOXETINE"
+	},
+	{
+		"name": "FLUPENTIXOL"
+	},
+	{
+		"name": "FLUPENTIXOL DECANOATE"
+	},
+	{
+		"name": "FLUPHENAZINE DECANOATE"
+	},
+	{
+		"name": "FLURAZEPAM"
+	},
+	{
+		"name": "FLURBIPROFEN"
+	},
+	{
+		"name": "FLUTAMIDE"
+	},
+	{
+		"name": "FLUTICASONE"
+	},
+	{
+		"name": "FLUTICASONE WITH AZELASTINE"
+	},
+	{
+		"name": "FLUTICASONE WITH FORMOTEROL"
+	},
+	{
+		"name": "FLUTICASONE WITH SALMETEROL"
+	},
+	{
+		"name": "FLUTICASONE WITH UMECLIDINIUM AND VILANTEROL"
+	},
+	{
+		"name": "FLUTICASONE WITH VILANTEROL"
+	},
+	{
+		"name": "FLUVASTATIN"
+	},
+	{
+		"name": "FLUVOXAMINE MALEATE"
+	},
+	{
+		"name": "FOLIC ACID"
+	},
+	{
+		"name": "FOLINIC ACID"
+	},
+	{
+		"name": "FOLLITROPIN ALFA"
+	},
+	{
+		"name": "FOLLITROPIN ALFA WITH LUTROPIN ALFA"
+	},
+	{
+		"name": "FOLLITROPIN DELTA"
+	},
+	{
+		"name": "FONDAPARINUX SODIUM"
+	},
+	{
+		"name": "FORMALDEHYDE"
+	},
+	{
+		"name": "FORMOTEROL FUMARATE"
+	},
+	{
+		"name": "FOSAMPRENAVIR"
+	},
+	{
+		"name": "FOSAPREPITANT"
+	},
+	{
+		"name": "FOSCARNET SODIUM"
+	},
+	{
+		"name": "FOSFOMYCIN"
+	},
+	{
+		"name": "FOSINOPRIL SODIUM"
+	},
+	{
+		"name": "FOSPHENYTOIN SODIUM"
+	},
+	{
+		"name": "FRAMYCETIN SULFATE"
+	},
+	{
+		"name": "FREMANEZUMAB"
+	},
+	{
+		"name": "FRESH FROZEN PLASMA"
+	},
+	{
+		"name": "FROVATRIPTAN"
+	},
+	{
+		"name": "FULVESTRANT"
+	},
+	{
+		"name": "FUROSEMIDE"
+	},
+	{
+		"name": "FUROSEMIDE WITH TRIAMTERENE"
+	},
+	{
+		"name": "FUSIDIC ACID"
+	},
+	{
+		"name": "GABAPENTIN"
+	},
+	{
+		"name": "GALANTAMINE"
+	},
+	{
+		"name": "GALCANEZUMAB"
+	},
+	{
+		"name": "GALSULFASE"
+	},
+	{
+		"name": "GANCICLOVIR"
+	},
+	{
+		"name": "GANIRELIX"
+	},
+	{
+		"name": "GEFITINIB"
+	},
+	{
+		"name": "GELATIN"
+	},
+	{
+		"name": "GEMCITABINE"
+	},
+	{
+		"name": "GEMEPROST"
+	},
+	{
+		"name": "GEMFIBROZIL"
+	},
+	{
+		"name": "GEMTUZUMAB OZOGAMICIN"
+	},
+	{
+		"name": "GENTAMICIN"
+	},
+	{
+		"name": "GENTAMICIN WITH HYDROCORTISONE"
+	},
+	{
+		"name": "GILTERITINIB"
+	},
+	{
+		"name": "GLATIRAMER ACETATE"
+	},
+	{
+		"name": "GLECAPREVIR WITH PIBRENTASVIR"
+	},
+	{
+		"name": "GLIBENCLAMIDE"
+	},
+	{
+		"name": "GLICLAZIDE"
+	},
+	{
+		"name": "GLIMEPIRIDE"
+	},
+	{
+		"name": "GLIPIZIDE"
+	},
+	{
+		"name": "GLUCAGON"
+	},
+	{
+		"name": "GLUCOSAMINE"
+	},
+	{
+		"name": "GLUCOSE"
+	},
+	{
+		"name": "GLUTARALDEHYDE"
+	},
+	{
+		"name": "GLYCEROL"
+	},
+	{
+		"name": "GLYCEROL PHENYLBUTYRATE"
+	},
+	{
+		"name": "GLYCEROL WITH MAGNESIUM SULFATE AND PHENOL"
+	},
+	{
+		"name": "GLYCERYL TRINITRATE"
+	},
+	{
+		"name": "GLYCINE"
+	},
+	{
+		"name": "GLYCOPYRRONIUM BROMIDE"
+	},
+	{
+		"name": "GLYCOPYRRONIUM WITH INDACATEROL"
+	},
+	{
+		"name": "GOLIMUMAB"
+	},
+	{
+		"name": "GONADORELIN"
+	},
+	{
+		"name": "GOSERELIN"
+	},
+	{
+		"name": "GRANISETRON"
+	},
+	{
+		"name": "GRAPEFRUIT JUICE"
+	},
+	{
+		"name": "GRASS POLLEN EXTRACT"
+	},
+	{
+		"name": "GRISEOFULVIN"
+	},
+	{
+		"name": "GUANETHIDINE MONOSULFATE"
+	},
+	{
+		"name": "GUANFACINE"
+	},
+	{
+		"name": "GUSELKUMAB"
+	},
+	{
+		"name": "HAEM ARGINATE"
+	},
+	{
+		"name": "HAEMOPHILUS INFLUENZAE TYPE B WITH MENINGOCOCCAL GROUP C VACCINE"
+	},
+	{
+		"name": "HALOPERIDOL"
+	},
+	{
+		"name": "HALOPERIDOL DECANOATE"
+	},
+	{
+		"name": "HEPARIN (UNFRACTIONATED)"
+	},
+	{
+		"name": "HEPARINOID"
+	},
+	{
+		"name": "HEPATITIS A AND B VACCINE"
+	},
+	{
+		"name": "HEPATITIS A VACCINE"
+	},
+	{
+		"name": "HEPATITIS A WITH TYPHOID VACCINE"
+	},
+	{
+		"name": "HEPATITIS B IMMUNOGLOBULIN"
+	},
+	{
+		"name": "HEPATITIS B VACCINE"
+	},
+	{
+		"name": "HEXETIDINE"
+	},
+	{
+		"name": "HOMATROPINE HYDROBROMIDE"
+	},
+	{
+		"name": "HUMAN ALPHA1-PROTEINASE INHIBITOR"
+	},
+	{
+		"name": "HUMAN PAPILLOMAVIRUS VACCINES"
+	},
+	{
+		"name": "HYALURONIDASE"
+	},
+	{
+		"name": "HYDRALAZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "HYDROCORTISONE"
+	},
+	{
+		"name": "HYDROCORTISONE BUTYRATE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH BENZALKONIUM CHLORIDE, DIMETICONE AND NYSTATIN"
+	},
+	{
+		"name": "HYDROCORTISONE WITH CHLORHEXIDINE HYDROCHLORIDE AND NYSTATIN"
+	},
+	{
+		"name": "HYDROCORTISONE WITH CLOTRIMAZOLE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH FUSIDIC ACID"
+	},
+	{
+		"name": "HYDROCORTISONE WITH LIDOCAINE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH MICONAZOLE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH NEOMYCIN AND POLYMYXIN B SULFATE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH OXYTETRACYCLINE"
+	},
+	{
+		"name": "HYDROCORTISONE WITH PRAMOCAINE"
+	},
+	{
+		"name": "HYDROGEN PEROXIDE"
+	},
+	{
+		"name": "HYDROMORPHONE HYDROCHLORIDE"
+	},
+	{
+		"name": "HYDROXOCOBALAMIN"
+	},
+	{
+		"name": "HYDROXYCARBAMIDE"
+	},
+	{
+		"name": "HYDROXYCHLOROQUINE SULFATE"
+	},
+	{
+		"name": "HYDROXYETHYLCELLULOSE"
+	},
+	{
+		"name": "HYDROXYPROPYL GUAR WITH POLYETHYLENE GLYCOL AND PROPYLENE GLYCOL"
+	},
+	{
+		"name": "HYDROXYZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "HYOSCINE BUTYLBROMIDE"
+	},
+	{
+		"name": "HYOSCINE HYDROBROMIDE"
+	},
+	{
+		"name": "HYPROMELLOSE"
+	},
+	{
+		"name": "HYPROMELLOSE WITH DEXTRAN 70"
+	},
+	{
+		"name": "IBANDRONIC ACID"
+	},
+	{
+		"name": "IBRUTINIB"
+	},
+	{
+		"name": "IBUPROFEN"
+	},
+	{
+		"name": "ICATIBANT"
+	},
+	{
+		"name": "ICHTHAMMOL"
+	},
+	{
+		"name": "ICHTHAMMOL WITH ZINC OXIDE"
+	},
+	{
+		"name": "IDARUBICIN HYDROCHLORIDE"
+	},
+	{
+		"name": "IDARUCIZUMAB"
+	},
+	{
+		"name": "IDEBENONE"
+	},
+	{
+		"name": "IDELALISIB"
+	},
+	{
+		"name": "IDURSULFASE"
+	},
+	{
+		"name": "IFOSFAMIDE"
+	},
+	{
+		"name": "ILOPROST"
+	},
+	{
+		"name": "IMATINIB"
+	},
+	{
+		"name": "IMIDAPRIL HYDROCHLORIDE"
+	},
+	{
+		"name": "IMIGLUCERASE"
+	},
+	{
+		"name": "IMIPENEM WITH CILASTATIN"
+	},
+	{
+		"name": "IMIPRAMINE HYDROCHLORIDE"
+	},
+	{
+		"name": "IMIQUIMOD"
+	},
+	{
+		"name": "INDACATEROL"
+	},
+	{
+		"name": "INDAPAMIDE"
+	},
+	{
+		"name": "INDOMETACIN"
+	},
+	{
+		"name": "INDORAMIN"
+	},
+	{
+		"name": "INFLIXIMAB"
+	},
+	{
+		"name": "INFLUENZA VACCINE"
+	},
+	{
+		"name": "INGENOL MEBUTATE"
+	},
+	{
+		"name": "INOSINE PRANOBEX"
+	},
+	{
+		"name": "INOSITOL NICOTINATE"
+	},
+	{
+		"name": "INOTERSEN"
+	},
+	{
+		"name": "INOTUZUMAB OZOGAMICIN"
+	},
+	{
+		"name": "INSULIN"
+	},
+	{
+		"name": "INSULIN ASPART"
+	},
+	{
+		"name": "INSULIN DEGLUDEC"
+	},
+	{
+		"name": "INSULIN DEGLUDEC WITH LIRAGLUTIDE"
+	},
+	{
+		"name": "INSULIN DETEMIR"
+	},
+	{
+		"name": "INSULIN GLARGINE"
+	},
+	{
+		"name": "INSULIN GLARGINE WITH LIXISENATIDE"
+	},
+	{
+		"name": "INSULIN GLULISINE"
+	},
+	{
+		"name": "INSULIN LISPRO"
+	},
+	{
+		"name": "INTERFERON ALFA"
+	},
+	{
+		"name": "INTERFERON BETA"
+	},
+	{
+		"name": "INTERFERON GAMMA-1B"
+	},
+	{
+		"name": "INTRA-UTERINE CONTRACEPTIVE DEVICES (COPPER)"
+	},
+	{
+		"name": "IODIDE WITH IODINE"
+	},
+	{
+		"name": "IPILIMUMAB"
+	},
+	{
+		"name": "IPRATROPIUM BROMIDE"
+	},
+	{
+		"name": "IPRATROPIUM WITH SALBUTAMOL"
+	},
+	{
+		"name": "IRBESARTAN"
+	},
+	{
+		"name": "IRBESARTAN WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "IRINOTECAN HYDROCHLORIDE"
+	},
+	{
+		"name": "IRON DEXTRAN"
+	},
+	{
+		"name": "IRON ISOMALTOSIDE 1000"
+	},
+	{
+		"name": "IRON SUCROSE"
+	},
+	{
+		"name": "ISAVUCONAZOLE"
+	},
+	{
+		"name": "ISOCARBOXAZID"
+	},
+	{
+		"name": "ISOFLURANE"
+	},
+	{
+		"name": "ISONIAZID"
+	},
+	{
+		"name": "ISOPHANE INSULIN"
+	},
+	{
+		"name": "ISOSORBIDE DINITRATE"
+	},
+	{
+		"name": "ISOSORBIDE MONONITRATE"
+	},
+	{
+		"name": "ISOTRETINOIN"
+	},
+	{
+		"name": "ISOTRETINOIN WITH ERYTHROMYCIN"
+	},
+	{
+		"name": "ISPAGHULA HUSK"
+	},
+	{
+		"name": "ITRACONAZOLE"
+	},
+	{
+		"name": "IVABRADINE"
+	},
+	{
+		"name": "IVACAFTOR"
+	},
+	{
+		"name": "IVERMECTIN"
+	},
+	{
+		"name": "IXAZOMIB"
+	},
+	{
+		"name": "IXEKIZUMAB"
+	},
+	{
+		"name": "JAPANESE ENCEPHALITIS VACCINE"
+	},
+	{
+		"name": "KAOLIN WITH MORPHINE"
+	},
+	{
+		"name": "KETAMINE"
+	},
+	{
+		"name": "KETOCONAZOLE"
+	},
+	{
+		"name": "KETOPROFEN"
+	},
+	{
+		"name": "KETOROLAC TROMETAMOL"
+	},
+	{
+		"name": "KETOTIFEN"
+	},
+	{
+		"name": "LABETALOL HYDROCHLORIDE"
+	},
+	{
+		"name": "LACIDIPINE"
+	},
+	{
+		"name": "LACOSAMIDE"
+	},
+	{
+		"name": "LACTIC ACID"
+	},
+	{
+		"name": "LACTULOSE"
+	},
+	{
+		"name": "LAMIVUDINE"
+	},
+	{
+		"name": "LAMIVUDINE WITH DOLUTEGRAVIR"
+	},
+	{
+		"name": "LAMIVUDINE WITH TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "LAMIVUDINE WITH TENOFOVIR DISOPROXIL AND DORAVIRINE"
+	},
+	{
+		"name": "LAMOTRIGINE"
+	},
+	{
+		"name": "LANADELUMAB"
+	},
+	{
+		"name": "LANREOTIDE"
+	},
+	{
+		"name": "LANSOPRAZOLE"
+	},
+	{
+		"name": "LANTHANUM"
+	},
+	{
+		"name": "LAPATINIB"
+	},
+	{
+		"name": "LARONIDASE"
+	},
+	{
+		"name": "LAROTRECTINIB"
+	},
+	{
+		"name": "LATANOPROST"
+	},
+	{
+		"name": "LATANOPROST WITH TIMOLOL"
+	},
+	{
+		"name": "LEDIPASVIR WITH SOFOSBUVIR"
+	},
+	{
+		"name": "LEFLUNOMIDE"
+	},
+	{
+		"name": "LENALIDOMIDE"
+	},
+	{
+		"name": "LENOGRASTIM"
+	},
+	{
+		"name": "LENVATINIB"
+	},
+	{
+		"name": "LERCANIDIPINE HYDROCHLORIDE"
+	},
+	{
+		"name": "LETERMOVIR"
+	},
+	{
+		"name": "LETROZOLE"
+	},
+	{
+		"name": "LEUPRORELIN ACETATE"
+	},
+	{
+		"name": "LEVAMISOLE"
+	},
+	{
+		"name": "LEVETIRACETAM"
+	},
+	{
+		"name": "LEVOBUNOLOL HYDROCHLORIDE"
+	},
+	{
+		"name": "LEVOBUPIVACAINE"
+	},
+	{
+		"name": "LEVOCARNITINE"
+	},
+	{
+		"name": "LEVOCETIRIZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "LEVODOPA WITH CARBIDOPA AND ENTACAPONE"
+	},
+	{
+		"name": "LEVOFLOXACIN"
+	},
+	{
+		"name": "LEVOFOLINIC ACID"
+	},
+	{
+		"name": "LEVOMENTHOL"
+	},
+	{
+		"name": "LEVOMEPROMAZINE"
+	},
+	{
+		"name": "LEVONORGESTREL"
+	},
+	{
+		"name": "LEVOTHYROXINE SODIUM"
+	},
+	{
+		"name": "LIDOCAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "LIDOCAINE WITH ADRENALINE"
+	},
+	{
+		"name": "LIDOCAINE WITH CETRIMIDE"
+	},
+	{
+		"name": "LIDOCAINE WITH PHENYLEPHRINE"
+	},
+	{
+		"name": "LIDOCAINE WITH PRILOCAINE"
+	},
+	{
+		"name": "LINACLOTIDE"
+	},
+	{
+		"name": "LINAGLIPTIN"
+	},
+	{
+		"name": "LINAGLIPTIN WITH METFORMIN"
+	},
+	{
+		"name": "LINEZOLID"
+	},
+	{
+		"name": "LIOTHYRONINE SODIUM"
+	},
+	{
+		"name": "LIPEGFILGRASTIM"
+	},
+	{
+		"name": "LIQUID PARAFFIN"
+	},
+	{
+		"name": "LIQUID PARAFFIN WITH WHITE SOFT PARAFFIN AND WOOL ALCOHOLS"
+	},
+	{
+		"name": "LIRAGLUTIDE"
+	},
+	{
+		"name": "LISDEXAMFETAMINE MESILATE"
+	},
+	{
+		"name": "LISINOPRIL"
+	},
+	{
+		"name": "LISINOPRIL WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "LITHIUM CARBONATE"
+	},
+	{
+		"name": "LITHIUM CITRATE"
+	},
+	{
+		"name": "LIXISENATIDE"
+	},
+	{
+		"name": "LODOXAMIDE"
+	},
+	{
+		"name": "LOFEPRAMINE"
+	},
+	{
+		"name": "LOFEXIDINE HYDROCHLORIDE"
+	},
+	{
+		"name": "LOMITAPIDE"
+	},
+	{
+		"name": "LOMUSTINE"
+	},
+	{
+		"name": "LOPERAMIDE HYDROCHLORIDE"
+	},
+	{
+		"name": "LOPERAMIDE WITH SIMETICONE"
+	},
+	{
+		"name": "LOPINAVIR WITH RITONAVIR"
+	},
+	{
+		"name": "LOPRAZOLAM"
+	},
+	{
+		"name": "LORATADINE"
+	},
+	{
+		"name": "LORAZEPAM"
+	},
+	{
+		"name": "LORLATINIB"
+	},
+	{
+		"name": "LORMETAZEPAM"
+	},
+	{
+		"name": "LOSARTAN POTASSIUM"
+	},
+	{
+		"name": "LOSARTAN WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "LOTEPREDNOL ETABONATE"
+	},
+	{
+		"name": "LOXAPINE"
+	},
+	{
+		"name": "LUMACAFTOR WITH IVACAFTOR"
+	},
+	{
+		"name": "LURASIDONE HYDROCHLORIDE"
+	},
+	{
+		"name": "LUSUTROMBOPAG"
+	},
+	{
+		"name": "LUTROPIN ALFA"
+	},
+	{
+		"name": "LYMECYCLINE"
+	},
+	{
+		"name": "MACITENTAN"
+	},
+	{
+		"name": "MACROGOL 3350"
+	},
+	{
+		"name": "MACROGOL 3350 WITH ANHYDROUS SODIUM SULFATE, ASCORBIC ACID, POTASSIUM CHLORIDE, SODIUM ASCORBATE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "MACROGOL 3350 WITH ANHYDROUS SODIUM SULFATE, POTASSIUM CHLORIDE, SODIUM BICARBONATE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "MACROGOL 3350 WITH POTASSIUM CHLORIDE, SODIUM BICARBONATE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "MAGNESIUM ASPARTATE"
+	},
+	{
+		"name": "MAGNESIUM CARBONATE"
+	},
+	{
+		"name": "MAGNESIUM CITRATE WITH SODIUM PICOSULFATE"
+	},
+	{
+		"name": "MAGNESIUM GLYCEROPHOSPHATE"
+	},
+	{
+		"name": "MAGNESIUM HYDROXIDE"
+	},
+	{
+		"name": "MAGNESIUM SULFATE"
+	},
+	{
+		"name": "MAGNESIUM TRISILICATE"
+	},
+	{
+		"name": "MAGNESIUM TRISILICATE WITH MAGNESIUM CARBONATE AND SODIUM BICARBONATE"
+	},
+	{
+		"name": "MALATHION"
+	},
+	{
+		"name": "MANNITOL"
+	},
+	{
+		"name": "MARAVIROC"
+	},
+	{
+		"name": "MEASLES, MUMPS AND RUBELLA VACCINE, LIVE"
+	},
+	{
+		"name": "MEBENDAZOLE"
+	},
+	{
+		"name": "MEBEVERINE HYDROCHLORIDE"
+	},
+	{
+		"name": "MEBEVERINE WITH ISPAGHULA HUSK"
+	},
+	{
+		"name": "MEDROXYPROGESTERONE ACETATE"
+	},
+	{
+		"name": "MEFENAMIC ACID"
+	},
+	{
+		"name": "MEFLOQUINE"
+	},
+	{
+		"name": "MEGESTROL ACETATE"
+	},
+	{
+		"name": "MELATONIN"
+	},
+	{
+		"name": "MELOXICAM"
+	},
+	{
+		"name": "MELPHALAN"
+	},
+	{
+		"name": "MEMANTINE HYDROCHLORIDE"
+	},
+	{
+		"name": "MENADIOL SODIUM PHOSPHATE"
+	},
+	{
+		"name": "MENINGOCOCCAL GROUP B VACCINE (RDNA, COMPONENT, ADSORBED)"
+	},
+	{
+		"name": "MENINGOCOCCAL GROUP C VACCINE"
+	},
+	{
+		"name": "MENINGOCOCCAL GROUPS A WITH C AND W135 AND Y VACCINE"
+	},
+	{
+		"name": "MENOTROPHIN"
+	},
+	{
+		"name": "MEPACRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "MEPIVACAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "MEPIVACAINE WITH ADRENALINE"
+	},
+	{
+		"name": "MEPOLIZUMAB"
+	},
+	{
+		"name": "MEPROBAMATE"
+	},
+	{
+		"name": "MEPTAZINOL"
+	},
+	{
+		"name": "MERCAPTAMINE"
+	},
+	{
+		"name": "MERCAPTOPURINE"
+	},
+	{
+		"name": "MEROPENEM"
+	},
+	{
+		"name": "MEROPENEM WITH VABORBACTAM"
+	},
+	{
+		"name": "MESALAZINE"
+	},
+	{
+		"name": "MESNA"
+	},
+	{
+		"name": "METARAMINOL"
+	},
+	{
+		"name": "METFORMIN HYDROCHLORIDE"
+	},
+	{
+		"name": "METHADONE HYDROCHLORIDE"
+	},
+	{
+		"name": "METHENAMINE HIPPURATE"
+	},
+	{
+		"name": "METHOCARBAMOL"
+	},
+	{
+		"name": "METHOTREXATE"
+	},
+	{
+		"name": "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
+	},
+	{
+		"name": "METHOXYFLURANE"
+	},
+	{
+		"name": "METHYLCELLULOSE"
+	},
+	{
+		"name": "METHYLDOPA"
+	},
+	{
+		"name": "METHYLNALTREXONE BROMIDE"
+	},
+	{
+		"name": "METHYLPHENIDATE HYDROCHLORIDE"
+	},
+	{
+		"name": "METHYLPREDNISOLONE"
+	},
+	{
+		"name": "METHYLPREDNISOLONE WITH LIDOCAINE"
+	},
+	{
+		"name": "METHYLTHIONINIUM CHLORIDE"
+	},
+	{
+		"name": "METOCLOPRAMIDE HYDROCHLORIDE"
+	},
+	{
+		"name": "METOLAZONE"
+	},
+	{
+		"name": "METOPROLOL TARTRATE"
+	},
+	{
+		"name": "METRONIDAZOLE"
+	},
+	{
+		"name": "METYRAPONE"
+	},
+	{
+		"name": "MEXILETINE"
+	},
+	{
+		"name": "MIANSERIN HYDROCHLORIDE"
+	},
+	{
+		"name": "MICAFUNGIN"
+	},
+	{
+		"name": "MICONAZOLE"
+	},
+	{
+		"name": "MIDAZOLAM"
+	},
+	{
+		"name": "MIDODRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "MIDOSTAURIN"
+	},
+	{
+		"name": "MIFAMURTIDE"
+	},
+	{
+		"name": "MIFEPRISTONE"
+	},
+	{
+		"name": "MIGALASTAT"
+	},
+	{
+		"name": "MIGLUSTAT"
+	},
+	{
+		"name": "MILRINONE"
+	},
+	{
+		"name": "MINOCYCLINE"
+	},
+	{
+		"name": "MINOXIDIL"
+	},
+	{
+		"name": "MIRABEGRON"
+	},
+	{
+		"name": "MIRTAZAPINE"
+	},
+	{
+		"name": "MISOPROSTOL"
+	},
+	{
+		"name": "MITOMYCIN"
+	},
+	{
+		"name": "MITOTANE"
+	},
+	{
+		"name": "MITOXANTRONE"
+	},
+	{
+		"name": "MIVACURIUM"
+	},
+	{
+		"name": "MIZOLASTINE"
+	},
+	{
+		"name": "MOCLOBEMIDE"
+	},
+	{
+		"name": "MODAFINIL"
+	},
+	{
+		"name": "MOGAMULIZUMAB"
+	},
+	{
+		"name": "MOMETASONE FUROATE"
+	},
+	{
+		"name": "MONTELUKAST"
+	},
+	{
+		"name": "MORPHINE"
+	},
+	{
+		"name": "MORPHINE WITH CYCLIZINE"
+	},
+	{
+		"name": "MOXIFLOXACIN"
+	},
+	{
+		"name": "MOXISYLYTE"
+	},
+	{
+		"name": "MOXONIDINE"
+	},
+	{
+		"name": "MUPIROCIN"
+	},
+	{
+		"name": "MYCOPHENOLATE MOFETIL"
+	},
+	{
+		"name": "NABILONE"
+	},
+	{
+		"name": "NABUMETONE"
+	},
+	{
+		"name": "NADOLOL"
+	},
+	{
+		"name": "NAFARELIN"
+	},
+	{
+		"name": "NAFTIDROFURYL OXALATE"
+	},
+	{
+		"name": "NALDEMEDINE"
+	},
+	{
+		"name": "NALMEFENE"
+	},
+	{
+		"name": "NALOXEGOL"
+	},
+	{
+		"name": "NALOXONE HYDROCHLORIDE"
+	},
+	{
+		"name": "NALTREXONE HYDROCHLORIDE"
+	},
+	{
+		"name": "NALTREXONE WITH BUPROPION"
+	},
+	{
+		"name": "NANDROLONE"
+	},
+	{
+		"name": "NAPROXEN"
+	},
+	{
+		"name": "NAPROXEN WITH ESOMEPRAZOLE"
+	},
+	{
+		"name": "NARATRIPTAN"
+	},
+	{
+		"name": "NATALIZUMAB"
+	},
+	{
+		"name": "NATEGLINIDE"
+	},
+	{
+		"name": "NEBIVOLOL"
+	},
+	{
+		"name": "NECITUMUMAB"
+	},
+	{
+		"name": "NEDOCROMIL SODIUM"
+	},
+	{
+		"name": "NEFOPAM HYDROCHLORIDE"
+	},
+	{
+		"name": "NELARABINE"
+	},
+	{
+		"name": "NEOMYCIN SULFATE"
+	},
+	{
+		"name": "NEOSTIGMINE"
+	},
+	{
+		"name": "NEOSTIGMINE WITH GLYCOPYRRONIUM BROMIDE"
+	},
+	{
+		"name": "NEPAFENAC"
+	},
+	{
+		"name": "NERATINIB"
+	},
+	{
+		"name": "NEVIRAPINE"
+	},
+	{
+		"name": "NICARDIPINE HYDROCHLORIDE"
+	},
+	{
+		"name": "NICORANDIL"
+	},
+	{
+		"name": "NICOTINAMIDE"
+	},
+	{
+		"name": "NICOTINE"
+	},
+	{
+		"name": "NICOTINIC ACID"
+	},
+	{
+		"name": "NIFEDIPINE"
+	},
+	{
+		"name": "NILOTINIB"
+	},
+	{
+		"name": "NIMODIPINE"
+	},
+	{
+		"name": "NINTEDANIB"
+	},
+	{
+		"name": "NIRAPARIB"
+	},
+	{
+		"name": "NITISINONE"
+	},
+	{
+		"name": "NITRAZEPAM"
+	},
+	{
+		"name": "NITROFURANTOIN"
+	},
+	{
+		"name": "NITROUS OXIDE"
+	},
+	{
+		"name": "NIVOLUMAB"
+	},
+	{
+		"name": "NIZATIDINE"
+	},
+	{
+		"name": "NONOXINOL"
+	},
+	{
+		"name": "NORADRENALINE/NOREPINEPHRINE"
+	},
+	{
+		"name": "NORETHISTERONE"
+	},
+	{
+		"name": "NORETHISTERONE WITH MESTRANOL"
+	},
+	{
+		"name": "NORMAL IMMUNOGLOBULIN"
+	},
+	{
+		"name": "NORTRIPTYLINE"
+	},
+	{
+		"name": "NUSINERSEN"
+	},
+	{
+		"name": "NYSTATIN"
+	},
+	{
+		"name": "OBETICHOLIC ACID"
+	},
+	{
+		"name": "OBINUTUZUMAB"
+	},
+	{
+		"name": "OCRELIZUMAB"
+	},
+	{
+		"name": "OCRIPLASMIN"
+	},
+	{
+		"name": "OCTREOTIDE"
+	},
+	{
+		"name": "OFLOXACIN"
+	},
+	{
+		"name": "OLANZAPINE"
+	},
+	{
+		"name": "OLANZAPINE EMBONATE"
+	},
+	{
+		"name": "OLAPARIB"
+	},
+	{
+		"name": "OLIVE OIL"
+	},
+	{
+		"name": "OLMESARTAN MEDOXOMIL"
+	},
+	{
+		"name": "OLMESARTAN WITH AMLODIPINE"
+	},
+	{
+		"name": "OLMESARTAN WITH AMLODIPINE AND HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "OLMESARTAN WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "OLODATEROL"
+	},
+	{
+		"name": "OLOPATADINE"
+	},
+	{
+		"name": "OLSALAZINE SODIUM"
+	},
+	{
+		"name": "OMALIZUMAB"
+	},
+	{
+		"name": "OMBITASVIR WITH PARITAPREVIR AND RITONAVIR"
+	},
+	{
+		"name": "OMEGA-3-ACID ETHYL ESTERS"
+	},
+	{
+		"name": "OMEPRAZOLE"
+	},
+	{
+		"name": "ONDANSETRON"
+	},
+	{
+		"name": "OPICAPONE"
+	},
+	{
+		"name": "ORLISTAT"
+	},
+	{
+		"name": "ORPHENADRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "OSELTAMIVIR"
+	},
+	{
+		"name": "OSIMERTINIB"
+	},
+	{
+		"name": "OSPEMIFENE"
+	},
+	{
+		"name": "OXALIPLATIN"
+	},
+	{
+		"name": "OXAZEPAM"
+	},
+	{
+		"name": "OXCARBAZEPINE"
+	},
+	{
+		"name": "OXERUTINS"
+	},
+	{
+		"name": "OXYBUPROCAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "OXYBUTYNIN HYDROCHLORIDE"
+	},
+	{
+		"name": "OXYCODONE HYDROCHLORIDE"
+	},
+	{
+		"name": "OXYCODONE WITH NALOXONE"
+	},
+	{
+		"name": "OXYMETHOLONE"
+	},
+	{
+		"name": "OXYTETRACYCLINE"
+	},
+	{
+		"name": "OXYTOCIN"
+	},
+	{
+		"name": "PACLITAXEL"
+	},
+	{
+		"name": "PALBOCICLIB"
+	},
+	{
+		"name": "PALIPERIDONE"
+	},
+	{
+		"name": "PALIVIZUMAB"
+	},
+	{
+		"name": "PALONOSETRON"
+	},
+	{
+		"name": "PALONOSETRON WITH NETUPITANT"
+	},
+	{
+		"name": "PAMIDRONATE DISODIUM"
+	},
+	{
+		"name": "PANCREATIN"
+	},
+	{
+		"name": "PANCURONIUM BROMIDE"
+	},
+	{
+		"name": "PANITUMUMAB"
+	},
+	{
+		"name": "PANOBINOSTAT"
+	},
+	{
+		"name": "PANTOPRAZOLE"
+	},
+	{
+		"name": "PARACETAMOL"
+	},
+	{
+		"name": "PARACETAMOL WITH BUCLIZINE HYDROCHLORIDE AND CODEINE PHOSPHATE"
+	},
+	{
+		"name": "PARACETAMOL WITH ISOMETHEPTENE"
+	},
+	{
+		"name": "PARACETAMOL WITH METOCLOPRAMIDE"
+	},
+	{
+		"name": "PARAFFIN, YELLOW, SOFT"
+	},
+	{
+		"name": "PARATHYROID HORMONE"
+	},
+	{
+		"name": "PARECOXIB"
+	},
+	{
+		"name": "PARENTERAL NUTRITION SUPPLEMENTS"
+	},
+	{
+		"name": "PARICALCITOL"
+	},
+	{
+		"name": "PAROXETINE"
+	},
+	{
+		"name": "PASIREOTIDE"
+	},
+	{
+		"name": "PATIROMER CALCIUM"
+	},
+	{
+		"name": "PATISIRAN"
+	},
+	{
+		"name": "PAZOPANIB"
+	},
+	{
+		"name": "PEGASPARGASE"
+	},
+	{
+		"name": "PEGFILGRASTIM"
+	},
+	{
+		"name": "PEGINTERFERON ALFA"
+	},
+	{
+		"name": "PEGINTERFERON BETA-1A"
+	},
+	{
+		"name": "PEGVISOMANT"
+	},
+	{
+		"name": "PEMBROLIZUMAB"
+	},
+	{
+		"name": "PEMETREXED"
+	},
+	{
+		"name": "PENICILLAMINE"
+	},
+	{
+		"name": "PENTAMIDINE ISETIONATE"
+	},
+	{
+		"name": "PENTAZOCINE"
+	},
+	{
+		"name": "PENTOSAN POLYSULFATE SODIUM"
+	},
+	{
+		"name": "PENTOSTATIN"
+	},
+	{
+		"name": "PENTOXIFYLLINE"
+	},
+	{
+		"name": "PEPPERMINT OIL"
+	},
+	{
+		"name": "PERAMPANEL"
+	},
+	{
+		"name": "PERGOLIDE"
+	},
+	{
+		"name": "PERICYAZINE"
+	},
+	{
+		"name": "PERINDOPRIL ARGININE"
+	},
+	{
+		"name": "PERINDOPRIL ARGININE WITH INDAPAMIDE"
+	},
+	{
+		"name": "PERINDOPRIL ERBUMINE"
+	},
+	{
+		"name": "PERMETHRIN"
+	},
+	{
+		"name": "PERTUZUMAB"
+	},
+	{
+		"name": "PETHIDINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PHENELZINE"
+	},
+	{
+		"name": "PHENINDIONE"
+	},
+	{
+		"name": "PHENOBARBITAL"
+	},
+	{
+		"name": "PHENOL"
+	},
+	{
+		"name": "PHENOXYBENZAMINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PHENOXYMETHYLPENICILLIN"
+	},
+	{
+		"name": "PHENYLEPHRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PHENYLEPHRINE WITH TROPICAMIDE"
+	},
+	{
+		"name": "PHENYTOIN"
+	},
+	{
+		"name": "PHOLCODINE"
+	},
+	{
+		"name": "PHOSPHATE"
+	},
+	{
+		"name": "PHYTOMENADIONE"
+	},
+	{
+		"name": "PILOCARPINE"
+	},
+	{
+		"name": "PIMECROLIMUS"
+	},
+	{
+		"name": "PIMOZIDE"
+	},
+	{
+		"name": "PINDOLOL"
+	},
+	{
+		"name": "PIOGLITAZONE"
+	},
+	{
+		"name": "PIOGLITAZONE WITH METFORMIN"
+	},
+	{
+		"name": "PIPERACILLIN WITH TAZOBACTAM"
+	},
+	{
+		"name": "PIRACETAM"
+	},
+	{
+		"name": "PIRFENIDONE"
+	},
+	{
+		"name": "PIROXICAM"
+	},
+	{
+		"name": "PITOLISANT"
+	},
+	{
+		"name": "PIVMECILLINAM HYDROCHLORIDE"
+	},
+	{
+		"name": "PIXANTRONE"
+	},
+	{
+		"name": "PIZOTIFEN"
+	},
+	{
+		"name": "PLERIXAFOR"
+	},
+	{
+		"name": "PNEUMOCOCCAL POLYSACCHARIDE CONJUGATE VACCINE (ADSORBED)"
+	},
+	{
+		"name": "PNEUMOCOCCAL POLYSACCHARIDE VACCINE"
+	},
+	{
+		"name": "PODOPHYLLOTOXIN"
+	},
+	{
+		"name": "POLATUZUMAB VEDOTIN"
+	},
+	{
+		"name": "POLYVINYL ALCOHOL"
+	},
+	{
+		"name": "POMALIDOMIDE"
+	},
+	{
+		"name": "PONATINIB"
+	},
+	{
+		"name": "PORFIMER SODIUM"
+	},
+	{
+		"name": "POSACONAZOLE"
+	},
+	{
+		"name": "POTASSIUM AMINOBENZOATE"
+	},
+	{
+		"name": "POTASSIUM BICARBONATE WITH POTASSIUM ACID TARTRATE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH CALCIUM CHLORIDE DIHYDRATE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH CALCIUM CHLORIDE, SODIUM CHLORIDE AND SODIUM LACTATE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH GLUCOSE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH GLUCOSE AND SODIUM CHLORIDE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH POTASSIUM BICARBONATE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH RICE POWDER, SODIUM CHLORIDE AND SODIUM CITRATE"
+	},
+	{
+		"name": "POTASSIUM CHLORIDE WITH SODIUM CHLORIDE"
+	},
+	{
+		"name": "POTASSIUM PERMANGANATE"
+	},
+	{
+		"name": "POVIDONE-IODINE"
+	},
+	{
+		"name": "PRALIDOXIME CHLORIDE"
+	},
+	{
+		"name": "PRAMIPEXOLE"
+	},
+	{
+		"name": "PRASTERONE"
+	},
+	{
+		"name": "PRASUGREL"
+	},
+	{
+		"name": "PRAVASTATIN SODIUM"
+	},
+	{
+		"name": "PRAZIQUANTEL"
+	},
+	{
+		"name": "PRAZOSIN"
+	},
+	{
+		"name": "PREDNISOLONE"
+	},
+	{
+		"name": "PREGABALIN"
+	},
+	{
+		"name": "PRILOCAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PRILOCAINE WITH FELYPRESSIN"
+	},
+	{
+		"name": "PRIMAQUINE"
+	},
+	{
+		"name": "PRIMIDONE"
+	},
+	{
+		"name": "PROCARBAZINE"
+	},
+	{
+		"name": "PROCHLORPERAZINE"
+	},
+	{
+		"name": "PROCYCLIDINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PROFLAVINE"
+	},
+	{
+		"name": "PROGESTERONE"
+	},
+	{
+		"name": "PROGUANIL HYDROCHLORIDE"
+	},
+	{
+		"name": "PROMAZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PROMETHAZINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PROMETHAZINE TEOCLATE"
+	},
+	{
+		"name": "PROPAFENONE HYDROCHLORIDE"
+	},
+	{
+		"name": "PROPAMIDINE ISETIONATE"
+	},
+	{
+		"name": "PROPANTHELINE BROMIDE"
+	},
+	{
+		"name": "PROPIVERINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PROPOFOL"
+	},
+	{
+		"name": "PROPRANOLOL HYDROCHLORIDE"
+	},
+	{
+		"name": "PROPYLTHIOURACIL"
+	},
+	{
+		"name": "PROTAMINE SULFATE"
+	},
+	{
+		"name": "PROTAMINE ZINC INSULIN"
+	},
+	{
+		"name": "PROTEIN C CONCENTRATE"
+	},
+	{
+		"name": "PROXYMETACAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PRUCALOPRIDE"
+	},
+	{
+		"name": "PSEUDOEPHEDRINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PYRAZINAMIDE"
+	},
+	{
+		"name": "PYRIDOSTIGMINE BROMIDE"
+	},
+	{
+		"name": "PYRIDOXINE HYDROCHLORIDE"
+	},
+	{
+		"name": "PYRIMETHAMINE"
+	},
+	{
+		"name": "QUETIAPINE"
+	},
+	{
+		"name": "QUINAGOLIDE"
+	},
+	{
+		"name": "QUINAPRIL"
+	},
+	{
+		"name": "QUINAPRIL WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "QUININE"
+	},
+	{
+		"name": "RABEPRAZOLE SODIUM"
+	},
+	{
+		"name": "RABIES IMMUNOGLOBULIN"
+	},
+	{
+		"name": "RABIES VACCINE"
+	},
+	{
+		"name": "RALOXIFENE HYDROCHLORIDE"
+	},
+	{
+		"name": "RALTEGRAVIR"
+	},
+	{
+		"name": "RALTITREXED"
+	},
+	{
+		"name": "RAMIPRIL"
+	},
+	{
+		"name": "RAMIPRIL WITH FELODIPINE"
+	},
+	{
+		"name": "RAMUCIRUMAB"
+	},
+	{
+		"name": "RANIBIZUMAB"
+	},
+	{
+		"name": "RANITIDINE"
+	},
+	{
+		"name": "RANOLAZINE"
+	},
+	{
+		"name": "RASAGILINE"
+	},
+	{
+		"name": "RASBURICASE"
+	},
+	{
+		"name": "RAVULIZUMAB"
+	},
+	{
+		"name": "REBOXETINE"
+	},
+	{
+		"name": "REGORAFENIB"
+	},
+	{
+		"name": "REMIFENTANIL"
+	},
+	{
+		"name": "REPAGLINIDE"
+	},
+	{
+		"name": "RESLIZUMAB"
+	},
+	{
+		"name": "RETINOL PALMITATE WITH WHITE SOFT PARAFFIN, LIGHT LIQUID PARAFFIN, LIQUID PARAFFIN AND WOOL FAT"
+	},
+	{
+		"name": "RIBAVIRIN"
+	},
+	{
+		"name": "RIBOCICLIB"
+	},
+	{
+		"name": "RIFABUTIN"
+	},
+	{
+		"name": "RIFAMPICIN"
+	},
+	{
+		"name": "RIFAMPICIN WITH ETHAMBUTOL, ISONIAZID AND PYRAZINAMIDE"
+	},
+	{
+		"name": "RIFAMPICIN WITH ISONIAZID"
+	},
+	{
+		"name": "RIFAMPICIN WITH ISONIAZID AND PYRAZINAMIDE"
+	},
+	{
+		"name": "RIFAXIMIN"
+	},
+	{
+		"name": "RILPIVIRINE"
+	},
+	{
+		"name": "RILUZOLE"
+	},
+	{
+		"name": "RIOCIGUAT"
+	},
+	{
+		"name": "RISANKIZUMAB"
+	},
+	{
+		"name": "RISEDRONATE SODIUM"
+	},
+	{
+		"name": "RISEDRONATE WITH CALCIUM CARBONATE AND COLECALCIFEROL"
+	},
+	{
+		"name": "RISPERIDONE"
+	},
+	{
+		"name": "RITONAVIR"
+	},
+	{
+		"name": "RITUXIMAB"
+	},
+	{
+		"name": "RIVAROXABAN"
+	},
+	{
+		"name": "RIVASTIGMINE"
+	},
+	{
+		"name": "RIZATRIPTAN"
+	},
+	{
+		"name": "ROCURONIUM BROMIDE"
+	},
+	{
+		"name": "ROFLUMILAST"
+	},
+	{
+		"name": "ROLAPITANT"
+	},
+	{
+		"name": "ROMIPLOSTIM"
+	},
+	{
+		"name": "ROMOSOZUMAB"
+	},
+	{
+		"name": "ROPINIROLE"
+	},
+	{
+		"name": "ROPIVACAINE HYDROCHLORIDE"
+	},
+	{
+		"name": "ROSUVASTATIN"
+	},
+	{
+		"name": "ROTAVIRUS VACCINE"
+	},
+	{
+		"name": "ROTIGOTINE"
+	},
+	{
+		"name": "RUCAPARIB"
+	},
+	{
+		"name": "RUFINAMIDE"
+	},
+	{
+		"name": "RUPATADINE"
+	},
+	{
+		"name": "RUXOLITINIB"
+	},
+	{
+		"name": "SACUBITRIL WITH VALSARTAN"
+	},
+	{
+		"name": "SAFINAMIDE"
+	},
+	{
+		"name": "SALBUTAMOL"
+	},
+	{
+		"name": "SALICYLIC ACID"
+	},
+	{
+		"name": "SALICYLIC ACID WITH LACTIC ACID"
+	},
+	{
+		"name": "SALICYLIC ACID WITH RHUBARB EXTRACT"
+	},
+	{
+		"name": "SALICYLIC ACID WITH ZINC OXIDE"
+	},
+	{
+		"name": "SALMETEROL"
+	},
+	{
+		"name": "SAPROPTERIN DIHYDROCHLORIDE"
+	},
+	{
+		"name": "SAQUINAVIR"
+	},
+	{
+		"name": "SARILUMAB"
+	},
+	{
+		"name": "SAXAGLIPTIN"
+	},
+	{
+		"name": "SAXAGLIPTIN WITH DAPAGLIFLOZIN"
+	},
+	{
+		"name": "SAXAGLIPTIN WITH METFORMIN"
+	},
+	{
+		"name": "SECUKINUMAB"
+	},
+	{
+		"name": "SELEGILINE HYDROCHLORIDE"
+	},
+	{
+		"name": "SELENIUM"
+	},
+	{
+		"name": "SELEXIPAG"
+	},
+	{
+		"name": "SEMAGLUTIDE"
+	},
+	{
+		"name": "SENNA"
+	},
+	{
+		"name": "SENNA WITH ISPAGHULA HUSK"
+	},
+	{
+		"name": "SERTRALINE"
+	},
+	{
+		"name": "SEVELAMER"
+	},
+	{
+		"name": "SEVOFLURANE"
+	},
+	{
+		"name": "SILDENAFIL"
+	},
+	{
+		"name": "SILTUXIMAB"
+	},
+	{
+		"name": "SILVER NITRATE"
+	},
+	{
+		"name": "SILVER SULFADIAZINE"
+	},
+	{
+		"name": "SIMETICONE"
+	},
+	{
+		"name": "SIMETICONE WITH ALUMINIUM HYDROXIDE AND MAGNESIUM HYDROXIDE"
+	},
+	{
+		"name": "SIMVASTATIN"
+	},
+	{
+		"name": "SIMVASTATIN WITH EZETIMIBE"
+	},
+	{
+		"name": "SIMVASTATIN WITH FENOFIBRATE"
+	},
+	{
+		"name": "SIPONIMOD"
+	},
+	{
+		"name": "SIROLIMUS"
+	},
+	{
+		"name": "SITAGLIPTIN"
+	},
+	{
+		"name": "SITAGLIPTIN WITH METFORMIN"
+	},
+	{
+		"name": "SODIUM ACID PHOSPHATE WITH SODIUM PHOSPHATE"
+	},
+	{
+		"name": "SODIUM ALGINATE WITH CALCIUM CARBONATE AND SODIUM BICARBONATE"
+	},
+	{
+		"name": "SODIUM ALGINATE WITH POTASSIUM BICARBONATE"
+	},
+	{
+		"name": "SODIUM AUROTHIOMALATE"
+	},
+	{
+		"name": "SODIUM BICARBONATE"
+	},
+	{
+		"name": "SODIUM BICARBONATE WITH SODIUM CHLORIDE"
+	},
+	{
+		"name": "SODIUM CHLORIDE"
+	},
+	{
+		"name": "SODIUM CHLORIDE WITH GLUCOSE"
+	},
+	{
+		"name": "SODIUM CITRATE"
+	},
+	{
+		"name": "SODIUM CLODRONATE"
+	},
+	{
+		"name": "SODIUM CROMOGLICATE"
+	},
+	{
+		"name": "SODIUM FEREDETATE"
+	},
+	{
+		"name": "SODIUM FLUORIDE"
+	},
+	{
+		"name": "SODIUM HYALURONATE"
+	},
+	{
+		"name": "SODIUM HYALURONATE WITH TREHALOSE"
+	},
+	{
+		"name": "SODIUM NITRITE"
+	},
+	{
+		"name": "SODIUM NITROPRUSSIDE"
+	},
+	{
+		"name": "SODIUM OXYBATE"
+	},
+	{
+		"name": "SODIUM PHENYLBUTYRATE"
+	},
+	{
+		"name": "SODIUM PICOSULFATE"
+	},
+	{
+		"name": "SODIUM POLYSTYRENE SULFONATE"
+	},
+	{
+		"name": "SODIUM STIBOGLUCONATE"
+	},
+	{
+		"name": "SODIUM TETRADECYL SULFATE"
+	},
+	{
+		"name": "SODIUM THIOSULFATE"
+	},
+	{
+		"name": "SODIUM VALPROATE"
+	},
+	{
+		"name": "SODIUM ZIRCONIUM CYCLOSILICATE"
+	},
+	{
+		"name": "SOFOSBUVIR"
+	},
+	{
+		"name": "SOFOSBUVIR WITH VELPATASVIR"
+	},
+	{
+		"name": "SOFOSBUVIR WITH VELPATASVIR AND VOXILAPREVIR"
+	},
+	{
+		"name": "SOLIFENACIN SUCCINATE"
+	},
+	{
+		"name": "SOMATROPIN"
+	},
+	{
+		"name": "SORAFENIB"
+	},
+	{
+		"name": "SOTALOL HYDROCHLORIDE"
+	},
+	{
+		"name": "SOYBEAN OIL"
+	},
+	{
+		"name": "SPIRONOLACTONE"
+	},
+	{
+		"name": "SPIRONOLACTONE WITH FUROSEMIDE"
+	},
+	{
+		"name": "ST JOHN'S WORT"
+	},
+	{
+		"name": "STAVUDINE"
+	},
+	{
+		"name": "STERCULIA"
+	},
+	{
+		"name": "STERCULIA WITH FRANGULA"
+	},
+	{
+		"name": "STIRIPENTOL"
+	},
+	{
+		"name": "STREPTOKINASE"
+	},
+	{
+		"name": "STREPTOMYCIN"
+	},
+	{
+		"name": "STREPTOZOCIN"
+	},
+	{
+		"name": "STRONTIUM RANELATE"
+	},
+	{
+		"name": "SUCRALFATE"
+	},
+	{
+		"name": "SUCROFERRIC OXYHYDROXIDE"
+	},
+	{
+		"name": "SUFENTANIL"
+	},
+	{
+		"name": "SUGAMMADEX"
+	},
+	{
+		"name": "SULFADIAZINE"
+	},
+	{
+		"name": "SULFASALAZINE"
+	},
+	{
+		"name": "SULINDAC"
+	},
+	{
+		"name": "SULPIRIDE"
+	},
+	{
+		"name": "SUMATRIPTAN"
+	},
+	{
+		"name": "SUNITINIB"
+	},
+	{
+		"name": "SUXAMETHONIUM CHLORIDE"
+	},
+	{
+		"name": "TACALCITOL"
+	},
+	{
+		"name": "TACROLIMUS"
+	},
+	{
+		"name": "TADALAFIL"
+	},
+	{
+		"name": "TAFAMIDIS"
+	},
+	{
+		"name": "TAFLUPROST"
+	},
+	{
+		"name": "TAFLUPROST WITH TIMOLOL"
+	},
+	{
+		"name": "TALAZOPARIB"
+	},
+	{
+		"name": "TALIMOGENE LAHERPAREPVEC"
+	},
+	{
+		"name": "TAMOXIFEN"
+	},
+	{
+		"name": "TAMSULOSIN HYDROCHLORIDE"
+	},
+	{
+		"name": "TAMSULOSIN WITH DUTASTERIDE"
+	},
+	{
+		"name": "TAMSULOSIN WITH SOLIFENACIN"
+	},
+	{
+		"name": "TAPENTADOL"
+	},
+	{
+		"name": "TAZAROTENE"
+	},
+	{
+		"name": "TEDIZOLID"
+	},
+	{
+		"name": "TEDUGLUTIDE"
+	},
+	{
+		"name": "TEGAFUR WITH GIMERACIL AND OTERACIL"
+	},
+	{
+		"name": "TEICOPLANIN"
+	},
+	{
+		"name": "TELAVANCIN"
+	},
+	{
+		"name": "TELBIVUDINE"
+	},
+	{
+		"name": "TELMISARTAN"
+	},
+	{
+		"name": "TELMISARTAN WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "TELOTRISTAT ETHYL"
+	},
+	{
+		"name": "TEMAZEPAM"
+	},
+	{
+		"name": "TEMOCILLIN"
+	},
+	{
+		"name": "TEMOPORFIN"
+	},
+	{
+		"name": "TEMOZOLOMIDE"
+	},
+	{
+		"name": "TEMSIROLIMUS"
+	},
+	{
+		"name": "TENECTEPLASE"
+	},
+	{
+		"name": "TENOFOVIR ALAFENAMIDE"
+	},
+	{
+		"name": "TENOFOVIR DISOPROXIL"
+	},
+	{
+		"name": "TENOXICAM"
+	},
+	{
+		"name": "TERAZOSIN"
+	},
+	{
+		"name": "TERBINAFINE"
+	},
+	{
+		"name": "TERBUTALINE SULFATE"
+	},
+	{
+		"name": "TERIFLUNOMIDE"
+	},
+	{
+		"name": "TERIPARATIDE"
+	},
+	{
+		"name": "TERLIPRESSIN ACETATE"
+	},
+	{
+		"name": "TESTOSTERONE"
+	},
+	{
+		"name": "TESTOSTERONE DECANOATE, ISOCAPROATE, PHENYLPROPIONATE AND PROPIONATE"
+	},
+	{
+		"name": "TESTOSTERONE ENANTATE"
+	},
+	{
+		"name": "TESTOSTERONE PROPIONATE"
+	},
+	{
+		"name": "TESTOSTERONE UNDECANOATE"
+	},
+	{
+		"name": "TETANUS IMMUNOGLOBULIN"
+	},
+	{
+		"name": "TETRABENAZINE"
+	},
+	{
+		"name": "TETRACAINE"
+	},
+	{
+		"name": "TETRACOSACTIDE"
+	},
+	{
+		"name": "TETRACYCLINE"
+	},
+	{
+		"name": "TETRASTARCH"
+	},
+	{
+		"name": "TEZACAFTOR WITH IVACAFTOR"
+	},
+	{
+		"name": "THALIDOMIDE"
+	},
+	{
+		"name": "THEOPHYLLINE"
+	},
+	{
+		"name": "THIAMINE"
+	},
+	{
+		"name": "THIOPENTAL SODIUM"
+	},
+	{
+		"name": "THIOTEPA"
+	},
+	{
+		"name": "THYROTROPIN ALFA"
+	},
+	{
+		"name": "TIAGABINE"
+	},
+	{
+		"name": "TIAPROFENIC ACID"
+	},
+	{
+		"name": "TIBOLONE"
+	},
+	{
+		"name": "TICAGRELOR"
+	},
+	{
+		"name": "TICARCILLIN WITH CLAVULANIC ACID"
+	},
+	{
+		"name": "TICK-BORNE ENCEPHALITIS VACCINE, INACTIVATED"
+	},
+	{
+		"name": "TIGECYCLINE"
+	},
+	{
+		"name": "TILDRAKIZUMAB"
+	},
+	{
+		"name": "TIMOLOL MALEATE"
+	},
+	{
+		"name": "TIMOLOL WITH AMILORIDE AND HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "TIMOLOL WITH BENDROFLUMETHIAZIDE"
+	},
+	{
+		"name": "TINIDAZOLE"
+	},
+	{
+		"name": "TINZAPARIN SODIUM"
+	},
+	{
+		"name": "TIOCONAZOLE"
+	},
+	{
+		"name": "TIOGUANINE"
+	},
+	{
+		"name": "TIOTROPIUM"
+	},
+	{
+		"name": "TIOTROPIUM WITH OLODATEROL"
+	},
+	{
+		"name": "TIPRANAVIR"
+	},
+	{
+		"name": "TIROFIBAN"
+	},
+	{
+		"name": "TIVOZANIB"
+	},
+	{
+		"name": "TIZANIDINE"
+	},
+	{
+		"name": "TOBRAMYCIN"
+	},
+	{
+		"name": "TOCILIZUMAB"
+	},
+	{
+		"name": "TOFACITINIB"
+	},
+	{
+		"name": "TOLBUTAMIDE"
+	},
+	{
+		"name": "TOLCAPONE"
+	},
+	{
+		"name": "TOLFENAMIC ACID"
+	},
+	{
+		"name": "TOLTERODINE TARTRATE"
+	},
+	{
+		"name": "TOLVAPTAN"
+	},
+	{
+		"name": "TOPIRAMATE"
+	},
+	{
+		"name": "TOPOTECAN"
+	},
+	{
+		"name": "TORASEMIDE"
+	},
+	{
+		"name": "TOREMIFENE"
+	},
+	{
+		"name": "TRABECTEDIN"
+	},
+	{
+		"name": "TRAMADOL HYDROCHLORIDE"
+	},
+	{
+		"name": "TRAMADOL WITH DEXKETOPROFEN"
+	},
+	{
+		"name": "TRAMADOL WITH PARACETAMOL"
+	},
+	{
+		"name": "TRAMETINIB"
+	},
+	{
+		"name": "TRANDOLAPRIL"
+	},
+	{
+		"name": "TRANEXAMIC ACID"
+	},
+	{
+		"name": "TRANYLCYPROMINE"
+	},
+	{
+		"name": "TRASTUZUMAB"
+	},
+	{
+		"name": "TRASTUZUMAB EMTANSINE"
+	},
+	{
+		"name": "TRAVOPROST"
+	},
+	{
+		"name": "TRAVOPROST WITH TIMOLOL"
+	},
+	{
+		"name": "TRAZODONE HYDROCHLORIDE"
+	},
+	{
+		"name": "TREE POLLEN EXTRACT"
+	},
+	{
+		"name": "TREOSULFAN"
+	},
+	{
+		"name": "TRETINOIN"
+	},
+	{
+		"name": "TRETINOIN WITH CLINDAMYCIN"
+	},
+	{
+		"name": "TRETINOIN WITH ERYTHROMYCIN"
+	},
+	{
+		"name": "TRIAMCINOLONE ACETONIDE"
+	},
+	{
+		"name": "TRIAMCINOLONE HEXACETONIDE"
+	},
+	{
+		"name": "TRIAMTERENE"
+	},
+	{
+		"name": "TRIAMTERENE WITH CHLORTALIDONE"
+	},
+	{
+		"name": "TRIENTINE DIHYDROCHLORIDE"
+	},
+	{
+		"name": "TRIFLUOPERAZINE"
+	},
+	{
+		"name": "TRIFLURIDINE WITH TIPIRACIL"
+	},
+	{
+		"name": "TRIHEXYPHENIDYL HYDROCHLORIDE"
+	},
+	{
+		"name": "TRIMETHOPRIM"
+	},
+	{
+		"name": "TRIMIPRAMINE"
+	},
+	{
+		"name": "TRIPTORELIN"
+	},
+	{
+		"name": "TROPICAMIDE"
+	},
+	{
+		"name": "TROPICAMIDE WITH PHENYLEPHRINE AND LIDOCAINE"
+	},
+	{
+		"name": "TROSPIUM CHLORIDE"
+	},
+	{
+		"name": "TRYPTOPHAN"
+	},
+	{
+		"name": "TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+	},
+	{
+		"name": "TYPHOID VACCINE"
+	},
+	{
+		"name": "ULIPRISTAL ACETATE"
+	},
+	{
+		"name": "UMECLIDINIUM"
+	},
+	{
+		"name": "UMECLIDINIUM WITH VILANTEROL"
+	},
+	{
+		"name": "UNDECENOIC ACID WITH ZINC UNDECENOATE"
+	},
+	{
+		"name": "UPADACITINIB"
+	},
+	{
+		"name": "UREA (13C)"
+	},
+	{
+		"name": "UREA HYDROGEN PEROXIDE"
+	},
+	{
+		"name": "UROFOLLITROPIN"
+	},
+	{
+		"name": "UROKINASE"
+	},
+	{
+		"name": "URSODEOXYCHOLIC ACID"
+	},
+	{
+		"name": "USTEKINUMAB"
+	},
+	{
+		"name": "VALACICLOVIR"
+	},
+	{
+		"name": "VALGANCICLOVIR"
+	},
+	{
+		"name": "VALPROIC ACID"
+	},
+	{
+		"name": "VALSARTAN"
+	},
+	{
+		"name": "VALSARTAN WITH HYDROCHLOROTHIAZIDE"
+	},
+	{
+		"name": "VANCOMYCIN"
+	},
+	{
+		"name": "VANDETANIB"
+	},
+	{
+		"name": "VARDENAFIL"
+	},
+	{
+		"name": "VARENICLINE"
+	},
+	{
+		"name": "VARICELLA-ZOSTER IMMUNOGLOBULIN"
+	},
+	{
+		"name": "VARICELLA-ZOSTER VACCINE"
+	},
+	{
+		"name": "VASOPRESSIN"
+	},
+	{
+		"name": "VECURONIUM BROMIDE"
+	},
+	{
+		"name": "VEDOLIZUMAB"
+	},
+	{
+		"name": "VELAGLUCERASE ALFA"
+	},
+	{
+		"name": "VEMURAFENIB"
+	},
+	{
+		"name": "VENETOCLAX"
+	},
+	{
+		"name": "VENLAFAXINE"
+	},
+	{
+		"name": "VERAPAMIL HYDROCHLORIDE"
+	},
+	{
+		"name": "VERNAKALANT"
+	},
+	{
+		"name": "VERTEPORFIN"
+	},
+	{
+		"name": "VIGABATRIN"
+	},
+	{
+		"name": "VILDAGLIPTIN"
+	},
+	{
+		"name": "VILDAGLIPTIN WITH METFORMIN"
+	},
+	{
+		"name": "VINBLASTINE SULFATE"
+	},
+	{
+		"name": "VINCRISTINE SULFATE"
+	},
+	{
+		"name": "VINDESINE SULFATE"
+	},
+	{
+		"name": "VINFLUNINE"
+	},
+	{
+		"name": "VINORELBINE"
+	},
+	{
+		"name": "VISMODEGIB"
+	},
+	{
+		"name": "VITAMIN A"
+	},
+	{
+		"name": "VITAMIN B COMPLEX"
+	},
+	{
+		"name": "VITAMIN B SUBSTANCES WITH ASCORBIC ACID"
+	},
+	{
+		"name": "VITAMINS A AND D"
+	},
+	{
+		"name": "VITAMINS A, C AND D"
+	},
+	{
+		"name": "VITAMINS WITH MINERALS AND TRACE ELEMENTS"
+	},
+	{
+		"name": "VOLANESORSEN"
+	},
+	{
+		"name": "VORICONAZOLE"
+	},
+	{
+		"name": "VORTIOXETINE"
+	},
+	{
+		"name": "WARFARIN SODIUM"
+	},
+	{
+		"name": "WASP VENOM EXTRACT"
+	},
+	{
+		"name": "XIPAMIDE"
+	},
+	{
+		"name": "XYLOMETAZOLINE HYDROCHLORIDE"
+	},
+	{
+		"name": "YELLOW FEVER VACCINE, LIVE"
+	},
+	{
+		"name": "ZANAMIVIR"
+	},
+	{
+		"name": "ZIDOVUDINE"
+	},
+	{
+		"name": "ZIDOVUDINE WITH LAMIVUDINE"
+	},
+	{
+		"name": "ZINC ACETATE"
+	},
+	{
+		"name": "ZINC SULFATE"
+	},
+	{
+		"name": "ZOLEDRONIC ACID"
+	},
+	{
+		"name": "ZOLMITRIPTAN"
+	},
+	{
+		"name": "ZOLPIDEM TARTRATE"
+	},
+	{
+		"name": "ZONISAMIDE"
+	},
+	{
+		"name": "ZOPICLONE"
+	},
+	{
+		"name": "ZUCLOPENTHIXOL"
+	},
+	{
+		"name": "ZUCLOPENTHIXOL ACETATE"
+	},
+	{
+		"name": "ZUCLOPENTHIXOL DECANOATE"
+	}
+]
