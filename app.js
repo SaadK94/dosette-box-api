@@ -4,24 +4,32 @@ const bodyParser = require('body-parser');
 const passport = require('passport');
 const cors = require('cors');
 const app = express();
+// TODO: Add config library
 
-mongoose.connect('mongodb://127.0.0.1:27017/passport-jwt', { useMongoClient: true });
+const mongoConnUri = process.env.MONGO_CONN_URI || 'mongodb://127.0.0.1:27017';
+const databaseName = process.env.DATABASE_NAME || 'dosette-app';
+const uri = `${mongoConnUri}/${databaseName}`;
+
+mongoose.connect(uri, { useMongoClient: true });
 mongoose.connection.on('error', (error) => console.log(error));
-mongoose.Promise = global.Promise;
 
-require('./middleware/auth');
+// TODO: Understand if this should sit here or elsewhere
+require('./lib/passport');
+
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 const authRoutes = require('./routes/auth');
-const secureRoutes = require('./routes/secure-routes');
 const dosetteRoutes = require('./routes/dosette');
 
 app.use('/', authRoutes);
 
+// TODO: Have doesette to be empty and ask the user to create a new once, which will become blank.
+// - Provide it a name
 //We plugin our jwt strategy as a middleware so only verified users can access this route
-app.use('/user', passport.authenticate('decode-jwt', { session: false }), secureRoutes);
 app.use('/dosette', passport.authenticate('decode-jwt', { session: false }), dosetteRoutes);
+
+// Server set up
 app.use(function(err, req, res, next) {
 	res.status(err.status || 500);
 	res.json({ error: err });

@@ -7,6 +7,10 @@ const DosetteSchema = new Schema({
 		ref: 'user',
 		unique: true
 	},
+	name: {
+		type: String,
+		default: 'Default'
+	},
 	morning: [
 		{
 			name: String,

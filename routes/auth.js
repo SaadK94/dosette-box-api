@@ -4,21 +4,32 @@ const jwt = require('jsonwebtoken');
 
 const router = express.Router();
 
-//When the user sends a post request to this route, passport authenticates the user based on the
-//middleware created previously
-router.post('/signup', passport.authenticate('signup', { session: false }), async (req, res, next) => {
-	res.json({
-		message: 'Signup successful',
-		user: req.user
-	});
-});
+const signUp = async (req, res, next) => {
+	passport.authenticate('signup', async (err, user, info) => {
+		try {
+			if (err || !user) {
+				const error = new Error('An Error occurred');
+				return res.status(400).json({ message: info.message });
+			}
+			res.json({
+				message: info.message,
+				user: user.user,
+				dosette: user.dosette
+			});
+		} catch (error) {
+			return next(error);
+		}
+	})(req, res, next);
+};
+
+router.post('/signup', signUp);
 
 const signJWT = async (req, res, next) => {
 	passport.authenticate('login', async (err, user, info) => {
 		try {
 			if (err || !user) {
 				const error = new Error('An Error occurred');
-				return next(error);
+				return res.status(400).json({ message: info.message });
 			}
 			req.login(user, { session: false }, async (error) => {
 				if (error) return next(error);
@@ -28,7 +39,10 @@ const signJWT = async (req, res, next) => {
 				//Sign the JWT token and populate the payload with the user email and id
 				const token = jwt.sign({ user: body }, 'top_secret');
 				//Send back the token to the user
-				return res.json({ token });
+				return res.json({
+					token,
+					message: info.message
+				});
 			});
 		} catch (error) {
 			return next(error);
