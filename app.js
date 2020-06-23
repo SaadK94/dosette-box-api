@@ -21,6 +21,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 const authRoutes = require('./routes/auth');
 const dosetteRoutes = require('./routes/dosette');
+const medicineRoutes = require('./routes/medicine');
 
 app.use('/', authRoutes);
 
@@ -28,6 +29,7 @@ app.use('/', authRoutes);
 // - Provide it a name
 //We plugin our jwt strategy as a middleware so only verified users can access this route
 app.use('/dosette', passport.authenticate('decode-jwt', { session: false }), dosetteRoutes);
+app.use('/medicine', passport.authenticate('decode-jwt', { session: false }), medicineRoutes);
 
 // Server set up
 app.use(function(err, req, res, next) {

@@ -69,10 +69,7 @@ router.post('/remove-medicine', async (req, res) => {
 	}
 	const removeMed = {
 		[req.body.time]: {
-			name: req.body.name,
-			_id: req.body.id,
-			strength: req.body.strength,
-			quantity: parseInt(req.body.quantity)
+			_id: req.body.id
 		}
 	};
 	try {
